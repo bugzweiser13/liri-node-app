@@ -1,35 +1,76 @@
 // require("dotenv").config();
 
+var request = require("request");
 var keys = require("./keys.js");
+// var Spotify = require('node-spotify-api');
+// var spotify = new Spotify(keys.spotify);
 var axios = require("axios");
-
 var moment = require('moment');
 moment().format();
 
-// var spotify = new Spotify(keys.spotify);
+var searchRequest = process.argv[2];
+var input = process.argv[3];
 
-//search processes
-if (process.argv[2] === "concert-this") {
-    console.log("You Asked For Concert Info");
-
-    var input = process.argv[3];
-    var bandsUrl = "https://rest.bandsintown.com/artists/" + input + "/events?app_id=codingbootcamp";
-    bands(bandsUrl);
+// search requests
+if (searchRequest === "concert-this") {
+    concert(searchRequest, input);
 }
-if (process.argv[2] === "spotify-this-song") {
+if (searchRequest === "movie-this") {
+    omdb(searchRequest, input);
+}
+
+
+//search functions
+function concert() {
+
+    if (searchRequest === "concert-this") {
+        console.log("You Asked For Concert Info");
+        var input = process.argv[3];
+        if (input === undefined) {
+            var input = "The Wiggles"; //default search
+        }
+        // var input = process.argv[3];
+        var bandsUrl = "https://rest.bandsintown.com/artists/" + input + "/events?app_id=codingbootcamp";
+        bands(bandsUrl);
+    }
+    return false;
+};
+
+if (searchRequest === "spotify-this-song") {
     console.log("You Asked For Spotify");
 
     // var input = process.argv[3];
-    // var bandsUrl = "https://rest.bandsintown.com/artists/" + input + "/events?app_id=codingbootcamp"
-}
-if (process.argv[2] === "movie-this") {
-    console.log("You Asked For A Movie");
-    var input = process.argv[3];
-    var movieUrl = "http://www.omdbapi.com/?t=" + input + "&y=&plot=short&apikey=trilogy";;
-    movie(movieUrl);
+    // var spotifyUrl = "https://api.spotify.com/v1";
+    // spotify(spotifyUrl);
+};
+
+function omdb() {
+    if (searchRequest === "movie-this") {
+        console.log("You Asked For A Movie");
+        var input = process.argv[3];
+        if (input === undefined) {
+            // input = "Mr. Nobody"
+            console.log("------------------------------------------");
+            console.log("Go Watch Mr. Nobody");
+            console.log("It's on Netflix");
+            console.log("Link: http://www.imdb.com/title/tt0485947/");
+            console.log("------------------------------------------");
+            return false;
+        }
+        var movieUrl = "http://www.omdbapi.com/?t=" + input + "&y=&plot=short&apikey=trilogy";
+        movie(movieUrl);
+    }
+};
+
+if (process.argv[2] === "do-what-it-says") {
+    console.log("Reading From the Text File");
+
+    // var input = process.argv[3];
+    // var movieUrl = "http://www.omdbapi.com/?t=" + input + "&y=&plot=short&apikey=trilogy";
 }
 
-//bands in town call
+
+//bands in town data call
 function bands(bandsUrl) {
 
     axios.get(bandsUrl).then(
@@ -44,6 +85,7 @@ function bands(bandsUrl) {
                 var showDateRtn = moment(showDate).format("MM/DD/YYYY");
 
                 console.log("--------------Event: " + [i + 1] + "---------------");
+                console.log("Artist: " + bandsResponse.data[i].lineup);
                 console.log("Location: " + bandsResponse.data[i].venue.city);
                 console.log("Venue Name: " + bandsResponse.data[i].venue.name);
                 console.log("Event Date: " + showDateRtn);
@@ -54,6 +96,7 @@ function bands(bandsUrl) {
     );
 }
 
+//spotify data call
 function spotify(spotifyUrl) {
 
     axios.get(spotifyUrl).then(
@@ -62,19 +105,21 @@ function spotify(spotifyUrl) {
 
             var searchLimit = 10;
 
-            for (i = 0; i < searchLimit; i++) {
+            for (l = 0; l < searchLimit; l++) {
+                console.log(spotifyResponse);
 
-                console.log("--------------Event: " + [i + 1] + "---------------");
-                console.log("Venue Name: " + bandsResponse.data[i].venue.name);
-                console.log("Location: " + bandsResponse.data[i].venue.city);
-                console.log("Date: " + bandsResponse.data[i].datetime);
-                console.log("Tickets: " + bandsResponse.data[i].url);
-                console.log("-------------------------------------");
+                // console.log("-------------------------------------");
+                // console.log("Artist: " + spotifyResponse.tracks[l]);
+                // console.log("The Song Name: " + spotifyResponse.tracks[l]);
+                // console.log("Preview Link: " + spotifyResponse.tracks[l]);
+                // console.log("Album: " + spotifyResponse.tracks[l]);
+                // console.log("-------------------------------------");
             }
         }
     );
 }
 
+//omdb data call
 function movie(movieUrl) {
 
     axios.get(movieUrl).then(
