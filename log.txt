@@ -1,0 +1,225 @@
+
+
+Concert Search Info
+
+
+-------------------------------Event: 1-----------------------------------
+Artist: Slayer
+Location: Saint-hilaire-de-clisson
+Venue Name: Hellfest
+Event Date: 06/23/2019
+Tickets URL: https://www.bandsintown.com/e/100496115?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 2-----------------------------------
+Artist: Slayer
+Location: Praha
+Venue Name: Tipsport Arena
+Event Date: 06/25/2019
+Tickets URL: https://www.bandsintown.com/e/100562738?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 3-----------------------------------
+Artist: Slayer
+Location: Oslo
+Venue Name: Tons Of Rock
+Event Date: 06/28/2019
+Tickets URL: https://www.bandsintown.com/e/100588841?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 4-----------------------------------
+Artist: Slayer
+Location: Helsinki
+Venue Name: Tuska Open Air
+Event Date: 06/29/2019
+Tickets URL: https://www.bandsintown.com/e/100588843?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 5-----------------------------------
+Artist: Slayer
+Location: Viveiro
+Venue Name: Resurrection Fest
+Event Date: 07/04/2019
+Tickets URL: https://www.bandsintown.com/e/100537062?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 6-----------------------------------
+Artist: Slayer
+Location: Lisbon
+Venue Name: Heavy Rock Festival Stadium Restelo
+Event Date: 07/05/2019
+Tickets URL: https://www.bandsintown.com/e/100562749?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 7-----------------------------------
+Artist: Slayer
+Location: Vérone
+Venue Name: Rock the Castle
+Event Date: 07/07/2019
+Tickets URL: https://www.bandsintown.com/e/100562746?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 8-----------------------------------
+Artist: Slayer
+Location: Bucharest
+Venue Name: Arenele Romane
+Event Date: 07/10/2019
+Tickets URL: https://www.bandsintown.com/e/100588848?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 9-----------------------------------
+Artist: Slayer
+Location: Sofia
+Venue Name: Sofia Airport Park
+Event Date: 07/11/2019
+Tickets URL: https://www.bandsintown.com/e/100588850?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 10-----------------------------------
+Artist: Slayer
+Location: Athens
+Venue Name: AthensRocks Apostolos Nikolaidis Stadium
+Event Date: 07/13/2019
+Tickets URL: https://www.bandsintown.com/e/100625902?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+
+
+Concert Search Info
+
+
+-------------------------------Event: 1-----------------------------------
+Artist: Slayer
+Location: Saint-hilaire-de-clisson
+Venue Name: Hellfest
+Event Date: 06/23/2019
+Tickets URL: https://www.bandsintown.com/e/100496115?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 2-----------------------------------
+Artist: Slayer
+Location: Praha
+Venue Name: Tipsport Arena
+Event Date: 06/25/2019
+Tickets URL: https://www.bandsintown.com/e/100562738?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 3-----------------------------------
+Artist: Slayer
+Location: Oslo
+Venue Name: Tons Of Rock
+Event Date: 06/28/2019
+Tickets URL: https://www.bandsintown.com/e/100588841?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 4-----------------------------------
+Artist: Slayer
+Location: Helsinki
+Venue Name: Tuska Open Air
+Event Date: 06/29/2019
+Tickets URL: https://www.bandsintown.com/e/100588843?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 5-----------------------------------
+Artist: Slayer
+Location: Viveiro
+Venue Name: Resurrection Fest
+Event Date: 07/04/2019
+Tickets URL: https://www.bandsintown.com/e/100537062?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 6-----------------------------------
+Artist: Slayer
+Location: Lisbon
+Venue Name: Heavy Rock Festival Stadium Restelo
+Event Date: 07/05/2019
+Tickets URL: https://www.bandsintown.com/e/100562749?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 7-----------------------------------
+Artist: Slayer
+Location: Vérone
+Venue Name: Rock the Castle
+Event Date: 07/07/2019
+Tickets URL: https://www.bandsintown.com/e/100562746?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 8-----------------------------------
+Artist: Slayer
+Location: Bucharest
+Venue Name: Arenele Romane
+Event Date: 07/10/2019
+Tickets URL: https://www.bandsintown.com/e/100588848?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 9-----------------------------------
+Artist: Slayer
+Location: Sofia
+Venue Name: Sofia Airport Park
+Event Date: 07/11/2019
+Tickets URL: https://www.bandsintown.com/e/100588850?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 10-----------------------------------
+Artist: Slayer
+Location: Athens
+Venue Name: AthensRocks Apostolos Nikolaidis Stadium
+Event Date: 07/13/2019
+Tickets URL: https://www.bandsintown.com/e/100625902?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Offset
+Song Name: Clout (feat. Cardi B)
+Preview Link: https://api.spotify.com/v1/tracks/59ywHNwwchG4nZJMLyxSzd
+Album: FATHER OF 4
+Release Date: 02/22/2019
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Offset
+Song Name: Legacy (feat. Travis Scott & 21 Savage)
+Preview Link: https://api.spotify.com/v1/tracks/7pMRoGLEJuFM2wl5pt0R99
+Album: FATHER OF 4
+Release Date: 02/22/2019
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Sam Smith
+Song Name: Fire On Fire - From "Watership Down"
+Preview Link: https://api.spotify.com/v1/tracks/5rFj8OzffT0iggSjcBaeND
+Album: Fire On Fire (From "Watership Down")
+Release Date: 12/21/2018
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Rihanna
+Song Name: FourFiveSeconds
+Preview Link: https://api.spotify.com/v1/tracks/78TTtXnFQPzwqlbtbwqN0y
+Album: FourFiveSeconds
+Release Date: 01/24/2015
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: The Beatles
+Song Name: Here Comes The Sun - Remastered 2009
+Preview Link: https://api.spotify.com/v1/tracks/6dGnYIeXmHdcikdzNNDMm2
+Album: Abbey Road (Remastered)
+Release Date: 09/26/1969
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Earth, Wind & Fire
+Song Name: September
+Preview Link: https://api.spotify.com/v1/tracks/7Cuk8jsPPoNYQWXK9XRFvG
+Album: September
+Release Date: 04/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Kings of Leon
+Song Name: Sex on Fire
+Preview Link: https://api.spotify.com/v1/tracks/0ntQJM78wzOLVeCUAW7Y45
+Album: Only By The Night
+Release Date: 09/23/2008
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: 2 Chainz
+Song Name: 4 AM
+Preview Link: https://api.spotify.com/v1/tracks/1nX9KhK3Fff27SnrIor2Yb
+Album: Pretty Girls Like Trap Music
+Release Date: 06/16/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Maluma
+Song Name: Felices los 4
+Preview Link: https://api.spotify.com/v1/tracks/1RouRzlg8OKFeqc6LvdxmB
+Album: F.A.M.E.
+Release Date: 05/18/2018
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: James Taylor
+Song Name: Fire and Rain
+Preview Link: https://api.spotify.com/v1/tracks/3LcYYV9ozePfgYYmXv0P3r
+Album: Sweet Baby James
+Release Date: 01/01/1970
+----------------------------------------------------------------------
