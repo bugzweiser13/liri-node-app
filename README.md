@@ -11,7 +11,7 @@ Will console log a statement "Invalid Search, please type any of the following c
     -movie-this
     -do-what-it-says
 
-***"node liri.js concert-this (band-name)":***
+***"node liri.js concert-this (artist-name)":***
 
 This command will produce a console log print out (and log to the log.txt file) of 10 upcoming events (search limit can be changed within code) of the following:
 
@@ -21,11 +21,11 @@ This command will produce a console log print out (and log to the log.txt file) 
     -Event Date <dateTime (moment.js to date format only)>
     -Ticket URL: <link to ticket purchasing>
 
-If ***(band-name)*** is left blank, the search will default to "The Wiggles
+If ***(artist-name)*** is left blank, the search will default to "The Wiggles
 
 ***"node liri.js spotify-this-song (song-name, all or partial)":***
 
-This command will produce a console log print out (also logs to log.tx file) of 10 songs (search limit can be changed within code) of the following:
+This command will produce a console log print out (also logs to log.tx file) of 10 songs within search criteria (search limit can be changed within code) of the following:
 
     -Artist: <name>
     -Song Name: <title>
@@ -33,6 +33,7 @@ This command will produce a console log print out (also logs to log.tx file) of 
     -Album: <album song can be found on>
     -Release Date: <date release, moment.js format to keep date look consistant>
 
+If ***(song name)*** is wrapped in "", will search for that specific title
 If ***(song-name)*** is left blank, the search will default to "macarena"
 
 ***"none liri.js movie-this (movie-title)":***
