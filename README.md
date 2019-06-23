@@ -6,7 +6,7 @@ Search Three APIs in one.
     -Spotify
     -OMDb (Open Movie Database)
 
-***"node liri.js"***
+***Enter: "node liri.js"***
 
 Will console log a statement ***"Invalid Search, please type any of the following command options: "*** 
 
@@ -15,7 +15,7 @@ Will console log a statement ***"Invalid Search, please type any of the followin
     -movie-this
     -do-what-it-says
 
-***"node liri.js concert-this (artist-name) + (search-limit#)":***
+***Enter: "node liri.js concert-this (artist-name) + (search-limit#)":***
 
 This command will produce a console log print out (and log to the log.txt file), the amount of events based on  
 ***(search-amount)*** of the following:
@@ -29,7 +29,7 @@ This command will produce a console log print out (and log to the log.txt file),
 If ***(artist-name)*** is left blank, the search will default to "The Wiggles.  
 If ***(search-limit#)*** is left blank, default search amount will be 10.
 
-***"node liri.js spotify-this-song (song-name) + (search amount#)":***
+***Enter: "node liri.js spotify-this-song (song-name) + (search amount#)":***
 
 This command will produce a console log print out (also logs to log.tx file), the amount of events based on  
 ***(search-amount)*** of the following:
@@ -59,7 +59,7 @@ This command will produce a console log print out (also log to the log.txt file)
 
 If ***(movie-title)*** is left blank, the search will default to a statement "Go Watch Mr. Nobody"
 
-***"node liri.js do-what-it-says"***
+***Enter: "node liri.js do-what-it-says"***
 
 Will perform the spotify song search for the title "I Want it That Way" from infomation within the random.txt file:
 
