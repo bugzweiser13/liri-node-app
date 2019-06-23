@@ -2,6 +2,10 @@
 
 Search Three APIs in one.
 
+    -Bands In Town
+    -Spotify
+    -OMDb (Open Movie Database)
+
 ***"node liri.js"***
 
 Will console log a statement ***"Invalid Search, please type any of the following command options: "*** 
