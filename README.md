@@ -11,7 +11,7 @@ Will console log a statement "Invalid Search, please type any of the following c
     -movie-this
     -do-what-it-says
 
-***"node liri.js concert-this <band-name>":***
+***"node liri.js concert-this (band-name)":***
 
 This command will produce a console log print out (and log to the log.txt file) of 10 upcoming events (search limit can be changed within code) of the following:
 
@@ -21,9 +21,9 @@ This command will produce a console log print out (and log to the log.txt file) 
     -Event Date <dateTime (moment.js to date format only)>
     -Ticket URL: <link to ticket purchasing>
 
-If <band-name> is left blank, the search will default to "The Wiggles
+If ***(band-name)*** is left blank, the search will default to "The Wiggles
 
-***"node liri.js spotify-this-song <song-name (all or partial)>":***
+***"node liri.js spotify-this-song (song-name, all or partial)":***
 
 This command will produce a console log print out (also logs to log.tx file) of 10 songs (search limit can be changed within code) of the following:
 
@@ -33,9 +33,9 @@ This command will produce a console log print out (also logs to log.tx file) of 
     -Album: <album song can be found on>
     -Release Date: <date release, moment.js format to keep date look consistant>
 
-If <song-name> is left blank, the search will default to "macarena"
+If ***(song-name)*** is left blank, the search will default to "macarena"
 
-***"none liri.js movie-this <movie-tile>":***
+***"none liri.js movie-this (movie-tile)":***
 
 This command will produce a console log print out (also log to the log.txt file) the requested movies's information as follows:
 
@@ -48,7 +48,7 @@ This command will produce a console log print out (also log to the log.txt file)
     -Plot: <plot synapsis>
     -Actors: <title actors>
 
-If <movie-name> is left blank, the search will default to a statement "Go Watch Mr. Nobody"
+If ***(movie-name)*** is left blank, the search will default to a statement "Go Watch Mr. Nobody"
 
 ***"node liri.js do-what-it-says"***
 
