@@ -57,7 +57,7 @@ If ***(movie-title)*** is left blank, the search will default to a statement "Go
 
 ***"node liri.js do-what-it-says"***
 
-Will perform the spotify song search for the title "I Want it That Way" from infomation within the random.txt file
+Will perform the spotify song search for the title "I Want it That Way" from infomation within the random.txt file:
 
     -entries within the random.txt file need to be seporated by a "," 
     -need to be entered in the following format <search-command>,<"search-criteria">
