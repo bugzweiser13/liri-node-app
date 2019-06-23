@@ -2976,3 +2976,2754 @@ OMDB Search Info
 
 No Data Received
 
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+-----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+----------------------------------------------------------------------
+
+
+Concert Search Info
+
+
+-------------------------------Event: 1-----------------------------------
+Artist: Metallica
+Location: Berlin
+Venue Name: Olympiastadion
+Event Date: 07/06/2019
+Tickets URL: https://www.bandsintown.com/e/1011905605?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 2-----------------------------------
+Artist: Metallica,Platinum
+Location: Göteborg
+Venue Name: Ullevi Restaurant & Conference
+Event Date: 07/09/2019
+Tickets URL: https://www.bandsintown.com/e/1011903922?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 3-----------------------------------
+Artist: Metallica,GHOST,Bokassa
+Location: Copenhagen
+Venue Name: Telia Parken
+Event Date: 07/11/2019
+Tickets URL: https://www.bandsintown.com/e/1011905167?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 4-----------------------------------
+Artist: Metallica
+Location: Trondheim
+Venue Name: Granasen Arena
+Event Date: 07/13/2019
+Tickets URL: https://www.bandsintown.com/e/1011905547?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 5-----------------------------------
+Artist: Metallica
+Location: Hameenlinna
+Venue Name: KANTOLAN TAPAHTUMAPUISTO
+Event Date: 07/16/2019
+Tickets URL: https://www.bandsintown.com/e/1011906245?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 6-----------------------------------
+Artist: Metallica
+Location: Tartu
+Venue Name: Raadi lennuväli
+Event Date: 07/17/2019
+Tickets URL: https://www.bandsintown.com/e/1015726038?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 7-----------------------------------
+Artist: Metallica
+Location: Tartu
+Venue Name: Raadi lennuväli
+Event Date: 07/18/2019
+Tickets URL: https://www.bandsintown.com/e/1011902677?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 8-----------------------------------
+Artist: Metallica
+Location: Moscow
+Venue Name: The Luzhniki Stadium
+Event Date: 07/21/2019
+Tickets URL: https://www.bandsintown.com/e/1012029510?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 9-----------------------------------
+Artist: Metallica
+Location: Bucharest
+Venue Name: National Stadion Bukarest
+Event Date: 08/14/2019
+Tickets URL: https://www.bandsintown.com/e/1011939103?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 10-----------------------------------
+Artist: Metallica
+Location: Wien
+Venue Name: Ernst-Happel-Stadion
+Event Date: 08/16/2019
+Tickets URL: https://www.bandsintown.com/e/1011901158?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 11-----------------------------------
+Artist: Metallica
+Location: Praha
+Venue Name: Letiště Praha Letňany
+Event Date: 08/18/2019
+Tickets URL: https://www.bandsintown.com/e/1011905787?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 12-----------------------------------
+Artist: Metallica,Platinum
+Location: Warsaw
+Venue Name: PGE Narodowy
+Event Date: 08/21/2019
+Tickets URL: https://www.bandsintown.com/e/1012029505?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 13-----------------------------------
+Artist: Metallica
+Location: Munchen
+Venue Name: Olympiastadion
+Event Date: 08/23/2019
+Tickets URL: https://www.bandsintown.com/e/1011903513?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 14-----------------------------------
+Artist: Metallica
+Location: Mannheim
+Venue Name: Maimarkt Gelände
+Event Date: 08/25/2019
+Tickets URL: https://www.bandsintown.com/e/1011905533?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 15-----------------------------------
+Artist: Metallica,Metallica/San Francisco Symphony
+Location: San Francisco
+Venue Name: Chase Center
+Event Date: 09/06/2019
+Tickets URL: https://www.bandsintown.com/e/1014253984?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 16-----------------------------------
+Artist: Metallica,Metallica/San Francisco Symphony
+Location: San Francisco
+Venue Name: Chase Center
+Event Date: 09/08/2019
+Tickets URL: https://www.bandsintown.com/e/1014689342?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 17-----------------------------------
+Artist: Metallica,Slipknot
+Location: Burswood
+Venue Name: Optus Stadium
+Event Date: 10/17/2019
+Tickets URL: https://www.bandsintown.com/e/1014101484?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 18-----------------------------------
+Artist: Metallica
+Location: North Adelaide
+Venue Name: Adelaide Oval
+Event Date: 10/20/2019
+Tickets URL: https://www.bandsintown.com/e/1014092732?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 19-----------------------------------
+Artist: Metallica,Slipknot
+Location: Docklands
+Venue Name: Marvel Stadium
+Event Date: 10/22/2019
+Tickets URL: https://www.bandsintown.com/e/1014100249?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 20-----------------------------------
+Artist: Metallica,Slipknot
+Location: Docklands
+Venue Name: Marvel Stadium
+Event Date: 10/24/2019
+Tickets URL: https://www.bandsintown.com/e/1014459820?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Billie Eilish
+Song Name: bad guy
+Preview Link: https://api.spotify.com/v1/tracks/2Fxmhks0bxGSBdJ92vM42m
+Album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+Release Date: 03/29/2019
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Blake Shelton
+Song Name: A Guy with a Girl
+Preview Link: https://api.spotify.com/v1/tracks/5sjIhQzNljMVrDklI91ezp
+Album: If I'm Honest
+Release Date: 05/20/2016
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Eminem
+Song Name: Good Guy (feat. Jessie Reyez)
+Preview Link: https://api.spotify.com/v1/tracks/4g32MdRoqwGKQd3NXIRhpU
+Album: Kamikaze
+Release Date: 08/31/2018
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Mary Wells
+Song Name: My Guy
+Preview Link: https://api.spotify.com/v1/tracks/4591VqUIXysNlmI5NcAIUd
+Album: Mary Wells Sings My Guy
+Release Date: 01/01/1964
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: The Offspring
+Song Name: Pretty Fly (For A White Guy)
+Preview Link: https://api.spotify.com/v1/tracks/3SFXsFpeGmBTtQvKiwYMDA
+Album: Americana
+Release Date: 11/16/1998
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Frank Ocean
+Song Name: Good Guy
+Preview Link: https://api.spotify.com/v1/tracks/2JUqYobT8NvARdPmc4ES2x
+Album: Blonde
+Release Date: 08/20/2016
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Eminem
+Song Name: Nice Guy (with Jessie Reyez)
+Preview Link: https://api.spotify.com/v1/tracks/09FfQO3PqHO4HIJL511Ksi
+Album: Kamikaze
+Release Date: 08/31/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Lupe Fiasco
+Song Name: Battle Scars
+Preview Link: https://api.spotify.com/v1/tracks/1hWYT0w2R0J19rlVkiez7X
+Album: Food & Liquor II: The Great American Rap Album Pt. 1
+Release Date: 09/25/2012
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Tyler Farr
+Song Name: A Guy Walks Into a Bar
+Preview Link: https://api.spotify.com/v1/tracks/16PNN9wK1LbedzcTp7y8y0
+Album: Suffer in Peace
+Release Date: 04/27/2015
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: Eminem
+Song Name: Bad Guy
+Preview Link: https://api.spotify.com/v1/tracks/3IaAYtmN8T0YIYVqnxNnVz
+Album: The Marshall Mathers LP2 (Deluxe)
+Release Date: 11/05/2013
+----------------------------------------------------------------------
+----------------------------Track# 11 --------------------------------
+Artist: courtship.
+Song Name: Nice Guy
+Preview Link: https://api.spotify.com/v1/tracks/4k3KuaHE8dET4RPp1GIxUe
+Album: Denial in Paradise
+Release Date: 05/11/2018
+----------------------------------------------------------------------
+----------------------------Track# 12 --------------------------------
+Artist: John Lennon
+Song Name: Jealous Guy - Remastered 2010
+Preview Link: https://api.spotify.com/v1/tracks/3D9iV6cYkYJRAPFO6DRKIE
+Album: Imagine
+Release Date: 09/09/1971
+----------------------------------------------------------------------
+----------------------------Track# 13 --------------------------------
+Artist: Tierra Whack
+Song Name: Cable Guy
+Preview Link: https://api.spotify.com/v1/tracks/3aLMgdQGyb5Dd7rMbKSynB
+Album: Whack World
+Release Date: 05/30/2018
+----------------------------------------------------------------------
+----------------------------Track# 14 --------------------------------
+Artist: DKE AUTHOR
+Song Name: That Guy
+Preview Link: https://api.spotify.com/v1/tracks/1eliDn4LTbvG32x8zB8Gll
+Album: That Guy
+Release Date: 02/08/2019
+----------------------------------------------------------------------
+----------------------------Track# 15 --------------------------------
+Artist: anders
+Song Name: Bad Guy
+Preview Link: https://api.spotify.com/v1/tracks/5w4enr0FN8ZTwxmfnACz2f
+Album: Twos
+Release Date: 03/06/2018
+----------------------------------------------------------------------
+----------------------------Track# 16 --------------------------------
+Artist: Alice Cooper
+Song Name: No More Mr. Nice Guy
+Preview Link: https://api.spotify.com/v1/tracks/5D2eCwqbHcqOnfHOCM6TnV
+Album: Billion Dollar Babies (Deluxe Reissue)
+Release Date: 01/01/1973
+----------------------------------------------------------------------
+----------------------------Track# 17 --------------------------------
+Artist: Guy Chambers
+Song Name: The Road to Mandalay
+Preview Link: https://api.spotify.com/v1/tracks/79mQLvKOBmjUZphc4yFxd4
+Album: Go Gentle into the Light
+Release Date: 05/03/2019
+----------------------------------------------------------------------
+----------------------------Track# 18 --------------------------------
+Artist: Waterloo Revival
+Song Name: What Guy Wouldn't
+Preview Link: https://api.spotify.com/v1/tracks/5uNkbV9FVJXPdhuCmtgg0M
+Album: What Guy Wouldn't
+Release Date: 03/31/2017
+----------------------------------------------------------------------
+----------------------------Track# 19 --------------------------------
+Artist: Niykee Heaton
+Song Name: Bad Guy
+Preview Link: https://api.spotify.com/v1/tracks/34LbYwWS8Vxr6dsdZ64OXd
+Album: Starting Over
+Release Date: 10/05/2018
+----------------------------------------------------------------------
+----------------------------Track# 20 --------------------------------
+Artist: Brad Paisley
+Song Name: I'm Still a Guy
+Preview Link: https://api.spotify.com/v1/tracks/10K3cLNxSH5XLs9X951hLR
+Album: Hits Alive
+Release Date: 11/02/2010
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+
+
+Concert Search Info
+
+
+-------------------------------Event: 1-----------------------------------
+Artist: Slayer
+Location: Saint-hilaire-de-clisson
+Venue Name: Hellfest
+Event Date: 06/23/2019
+Tickets URL: https://www.bandsintown.com/e/100496115?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 2-----------------------------------
+Artist: Slayer
+Location: Praha
+Venue Name: Tipsport Arena
+Event Date: 06/25/2019
+Tickets URL: https://www.bandsintown.com/e/100562738?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 3-----------------------------------
+Artist: Slayer
+Location: Oslo
+Venue Name: Tons Of Rock
+Event Date: 06/28/2019
+Tickets URL: https://www.bandsintown.com/e/100588841?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 4-----------------------------------
+Artist: Slayer
+Location: Helsinki
+Venue Name: Tuska Open Air
+Event Date: 06/29/2019
+Tickets URL: https://www.bandsintown.com/e/100588843?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 5-----------------------------------
+Artist: Slayer
+Location: Viveiro
+Venue Name: Resurrection Fest
+Event Date: 07/04/2019
+Tickets URL: https://www.bandsintown.com/e/100537062?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 6-----------------------------------
+Artist: Slayer
+Location: Lisbon
+Venue Name: Heavy Rock Festival Stadium Restelo
+Event Date: 07/05/2019
+Tickets URL: https://www.bandsintown.com/e/100562749?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 7-----------------------------------
+Artist: Slayer
+Location: Vérone
+Venue Name: Rock the Castle
+Event Date: 07/07/2019
+Tickets URL: https://www.bandsintown.com/e/100562746?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 8-----------------------------------
+Artist: Slayer
+Location: Bucharest
+Venue Name: Arenele Romane
+Event Date: 07/10/2019
+Tickets URL: https://www.bandsintown.com/e/100588848?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 9-----------------------------------
+Artist: Slayer
+Location: Sofia
+Venue Name: Sofia Airport Park
+Event Date: 07/11/2019
+Tickets URL: https://www.bandsintown.com/e/100588850?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 10-----------------------------------
+Artist: Slayer
+Location: Athens
+Venue Name: AthensRocks Apostolos Nikolaidis Stadium
+Event Date: 07/13/2019
+Tickets URL: https://www.bandsintown.com/e/100625902?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+
+
+Concert Search Info
+
+
+-------------------------------Event: 1-----------------------------------
+Artist: Slayer
+Location: Saint-hilaire-de-clisson
+Venue Name: Hellfest
+Event Date: 06/23/2019
+Tickets URL: https://www.bandsintown.com/e/100496115?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 2-----------------------------------
+Artist: Slayer
+Location: Praha
+Venue Name: Tipsport Arena
+Event Date: 06/25/2019
+Tickets URL: https://www.bandsintown.com/e/100562738?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 3-----------------------------------
+Artist: Slayer
+Location: Oslo
+Venue Name: Tons Of Rock
+Event Date: 06/28/2019
+Tickets URL: https://www.bandsintown.com/e/100588841?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 4-----------------------------------
+Artist: Slayer
+Location: Helsinki
+Venue Name: Tuska Open Air
+Event Date: 06/29/2019
+Tickets URL: https://www.bandsintown.com/e/100588843?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 5-----------------------------------
+Artist: Slayer
+Location: Viveiro
+Venue Name: Resurrection Fest
+Event Date: 07/04/2019
+Tickets URL: https://www.bandsintown.com/e/100537062?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 6-----------------------------------
+Artist: Slayer
+Location: Lisbon
+Venue Name: Heavy Rock Festival Stadium Restelo
+Event Date: 07/05/2019
+Tickets URL: https://www.bandsintown.com/e/100562749?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 7-----------------------------------
+Artist: Slayer
+Location: Vérone
+Venue Name: Rock the Castle
+Event Date: 07/07/2019
+Tickets URL: https://www.bandsintown.com/e/100562746?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 8-----------------------------------
+Artist: Slayer
+Location: Bucharest
+Venue Name: Arenele Romane
+Event Date: 07/10/2019
+Tickets URL: https://www.bandsintown.com/e/100588848?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 9-----------------------------------
+Artist: Slayer
+Location: Sofia
+Venue Name: Sofia Airport Park
+Event Date: 07/11/2019
+Tickets URL: https://www.bandsintown.com/e/100588850?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 10-----------------------------------
+Artist: Slayer
+Location: Athens
+Venue Name: AthensRocks Apostolos Nikolaidis Stadium
+Event Date: 07/13/2019
+Tickets URL: https://www.bandsintown.com/e/100625902?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 11-----------------------------------
+Artist: Slayer
+Location: Edmonton
+Venue Name: CHAOS AB
+Event Date: 07/26/2019
+Tickets URL: https://www.bandsintown.com/e/101013813?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 12-----------------------------------
+Artist: Slayer
+Location: Montreal
+Venue Name: Heavy Montreal (Weekend of July 27-28)
+Event Date: 07/28/2019
+Tickets URL: https://www.bandsintown.com/e/100820518?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 13-----------------------------------
+Artist: Slayer
+Location: Wacken
+Venue Name: Wacken Open Air
+Event Date: 08/02/2019
+Tickets URL: https://www.bandsintown.com/e/100633518?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 14-----------------------------------
+Artist: Slayer
+Location: Stuttgart
+Venue Name: Hanns-Martin-Schleyer-Halle
+Event Date: 08/03/2019
+Tickets URL: https://www.bandsintown.com/e/100536862?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 15-----------------------------------
+Artist: Slayer
+Location: Chicago
+Venue Name: Riot Fest (Weekend of 9/13-15) - Chicago, IL
+Event Date: 09/13/2019
+Tickets URL: https://www.bandsintown.com/e/101228100?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 16-----------------------------------
+Artist: Slayer
+Location: Quito
+Venue Name: Coliseo General Rumiñahui
+Event Date: 09/27/2019
+Tickets URL: https://www.bandsintown.com/e/101267319?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 17-----------------------------------
+Artist: Slayer
+Location: Buenos Aires City
+Venue Name: Luna Park
+Event Date: 09/29/2019
+Tickets URL: https://www.bandsintown.com/e/101244441?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 18-----------------------------------
+Artist: Slayer
+Location: São Paulo
+Venue Name: Espaço das Américas
+Event Date: 10/02/2019
+Tickets URL: https://www.bandsintown.com/e/101244439?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 19-----------------------------------
+Artist: Slayer
+Location: Rio De Janeiro
+Venue Name: Rock In Rio
+Event Date: 10/04/2019
+Tickets URL: https://www.bandsintown.com/e/100582203?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 20-----------------------------------
+Artist: Slayer
+Location: Santiago
+Venue Name: Gets Louder Festival
+Event Date: 10/06/2019
+Tickets URL: https://www.bandsintown.com/e/101231228?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Billie Eilish
+Song Name: bad guy
+Preview Link: https://api.spotify.com/v1/tracks/2Fxmhks0bxGSBdJ92vM42m
+Album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+Release Date: 03/29/2019
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Blake Shelton
+Song Name: A Guy with a Girl
+Preview Link: https://api.spotify.com/v1/tracks/5sjIhQzNljMVrDklI91ezp
+Album: If I'm Honest
+Release Date: 05/20/2016
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Eminem
+Song Name: Good Guy (feat. Jessie Reyez)
+Preview Link: https://api.spotify.com/v1/tracks/4g32MdRoqwGKQd3NXIRhpU
+Album: Kamikaze
+Release Date: 08/31/2018
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Mary Wells
+Song Name: My Guy
+Preview Link: https://api.spotify.com/v1/tracks/4591VqUIXysNlmI5NcAIUd
+Album: Mary Wells Sings My Guy
+Release Date: 01/01/1964
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: The Offspring
+Song Name: Pretty Fly (For A White Guy)
+Preview Link: https://api.spotify.com/v1/tracks/3SFXsFpeGmBTtQvKiwYMDA
+Album: Americana
+Release Date: 11/16/1998
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Frank Ocean
+Song Name: Good Guy
+Preview Link: https://api.spotify.com/v1/tracks/2JUqYobT8NvARdPmc4ES2x
+Album: Blonde
+Release Date: 08/20/2016
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Eminem
+Song Name: Nice Guy (with Jessie Reyez)
+Preview Link: https://api.spotify.com/v1/tracks/09FfQO3PqHO4HIJL511Ksi
+Album: Kamikaze
+Release Date: 08/31/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Lupe Fiasco
+Song Name: Battle Scars
+Preview Link: https://api.spotify.com/v1/tracks/1hWYT0w2R0J19rlVkiez7X
+Album: Food & Liquor II: The Great American Rap Album Pt. 1
+Release Date: 09/25/2012
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Tyler Farr
+Song Name: A Guy Walks Into a Bar
+Preview Link: https://api.spotify.com/v1/tracks/16PNN9wK1LbedzcTp7y8y0
+Album: Suffer in Peace
+Release Date: 04/27/2015
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: Eminem
+Song Name: Bad Guy
+Preview Link: https://api.spotify.com/v1/tracks/3IaAYtmN8T0YIYVqnxNnVz
+Album: The Marshall Mathers LP2 (Deluxe)
+Release Date: 11/05/2013
+----------------------------------------------------------------------
+----------------------------Track# 11 --------------------------------
+Artist: courtship.
+Song Name: Nice Guy
+Preview Link: https://api.spotify.com/v1/tracks/4k3KuaHE8dET4RPp1GIxUe
+Album: Denial in Paradise
+Release Date: 05/11/2018
+----------------------------------------------------------------------
+----------------------------Track# 12 --------------------------------
+Artist: John Lennon
+Song Name: Jealous Guy - Remastered 2010
+Preview Link: https://api.spotify.com/v1/tracks/3D9iV6cYkYJRAPFO6DRKIE
+Album: Imagine
+Release Date: 09/09/1971
+----------------------------------------------------------------------
+----------------------------Track# 13 --------------------------------
+Artist: Tierra Whack
+Song Name: Cable Guy
+Preview Link: https://api.spotify.com/v1/tracks/3aLMgdQGyb5Dd7rMbKSynB
+Album: Whack World
+Release Date: 05/30/2018
+----------------------------------------------------------------------
+----------------------------Track# 14 --------------------------------
+Artist: DKE AUTHOR
+Song Name: That Guy
+Preview Link: https://api.spotify.com/v1/tracks/1eliDn4LTbvG32x8zB8Gll
+Album: That Guy
+Release Date: 02/08/2019
+----------------------------------------------------------------------
+----------------------------Track# 15 --------------------------------
+Artist: anders
+Song Name: Bad Guy
+Preview Link: https://api.spotify.com/v1/tracks/5w4enr0FN8ZTwxmfnACz2f
+Album: Twos
+Release Date: 03/06/2018
+----------------------------------------------------------------------
+----------------------------Track# 16 --------------------------------
+Artist: Alice Cooper
+Song Name: No More Mr. Nice Guy
+Preview Link: https://api.spotify.com/v1/tracks/5D2eCwqbHcqOnfHOCM6TnV
+Album: Billion Dollar Babies (Deluxe Reissue)
+Release Date: 01/01/1973
+----------------------------------------------------------------------
+----------------------------Track# 17 --------------------------------
+Artist: Guy Chambers
+Song Name: The Road to Mandalay
+Preview Link: https://api.spotify.com/v1/tracks/79mQLvKOBmjUZphc4yFxd4
+Album: Go Gentle into the Light
+Release Date: 05/03/2019
+----------------------------------------------------------------------
+----------------------------Track# 18 --------------------------------
+Artist: Waterloo Revival
+Song Name: What Guy Wouldn't
+Preview Link: https://api.spotify.com/v1/tracks/5uNkbV9FVJXPdhuCmtgg0M
+Album: What Guy Wouldn't
+Release Date: 03/31/2017
+----------------------------------------------------------------------
+----------------------------Track# 19 --------------------------------
+Artist: Niykee Heaton
+Song Name: Bad Guy
+Preview Link: https://api.spotify.com/v1/tracks/34LbYwWS8Vxr6dsdZ64OXd
+Album: Starting Over
+Release Date: 10/05/2018
+----------------------------------------------------------------------
+----------------------------Track# 20 --------------------------------
+Artist: Brad Paisley
+Song Name: I'm Still a Guy
+Preview Link: https://api.spotify.com/v1/tracks/10K3cLNxSH5XLs9X951hLR
+Album: Hits Alive
+Release Date: 11/02/2010
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+----------------------------------------------------------------------
+
+
+Concert Search Info
+
+
+-------------------------------Event: 1-----------------------------------
+Artist: The Wiggles
+Location: Portland
+Venue Name: Aladdin Theater
+Event Date: 07/28/2019
+Tickets URL: https://www.bandsintown.com/e/1014702335?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 2-----------------------------------
+Artist: The Wiggles
+Location: San Francisco
+Venue Name: August Hall
+Event Date: 08/01/2019
+Tickets URL: https://www.bandsintown.com/e/1014828758?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 3-----------------------------------
+Artist: The Wiggles
+Location: Anaheim
+Venue Name: City National Grove Of Anaheim
+Event Date: 08/02/2019
+Tickets URL: https://www.bandsintown.com/e/1014994497?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 4-----------------------------------
+Artist: The Wiggles
+Location: Phoenix
+Venue Name: Orpheum Theatre Phoenix
+Event Date: 08/05/2019
+Tickets URL: https://www.bandsintown.com/e/1015062562?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 5-----------------------------------
+Artist: The Wiggles
+Location: Pueblo
+Venue Name: Pueblo Memorial Hall
+Event Date: 08/08/2019
+Tickets URL: https://www.bandsintown.com/e/1014993914?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 6-----------------------------------
+Artist: The Wiggles
+Location: Tulsa
+Venue Name: Chapman Music Hall - TPAC
+Event Date: 08/10/2019
+Tickets URL: https://www.bandsintown.com/e/1014833569?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 7-----------------------------------
+Artist: The Wiggles
+Location: Grand Prairie
+Venue Name: Verizon Theatre
+Event Date: 08/11/2019
+Tickets URL: https://www.bandsintown.com/e/1015062878?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 8-----------------------------------
+Artist: The Wiggles
+Location: Austin
+Venue Name: Moody Theater - Austin TX
+Event Date: 08/12/2019
+Tickets URL: https://www.bandsintown.com/e/1015037476?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 9-----------------------------------
+Artist: The Wiggles
+Location: Cincinnati
+Venue Name: Aronoff Center-Procter & Gamble Hall
+Event Date: 08/21/2019
+Tickets URL: https://www.bandsintown.com/e/1014833313?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 10-----------------------------------
+Artist: The Wiggles
+Location: Cleveland
+Venue Name: Keybank State Theatre-Playhouse Square Center
+Event Date: 08/27/2019
+Tickets URL: https://www.bandsintown.com/e/1014856200?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+
+
+Concert Search Info
+
+
+-------------------------------Event: 1-----------------------------------
+Artist: undefined
+
+
+Concert Search Info
+
+
+
+
+Concert Search Info
+
+
+-------------------------------Event: 1-----------------------------------
+Artist: undefined
+
+
+Concert Search Info
+
+
+-------------------------------Event: 1-----------------------------------
+Artist: Slayer
+Location: Saint-hilaire-de-clisson
+Venue Name: Hellfest
+Event Date: 06/23/2019
+Tickets URL: https://www.bandsintown.com/e/100496115?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 2-----------------------------------
+Artist: Slayer
+Location: Praha
+Venue Name: Tipsport Arena
+Event Date: 06/25/2019
+Tickets URL: https://www.bandsintown.com/e/100562738?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 3-----------------------------------
+Artist: Slayer
+Location: Oslo
+Venue Name: Tons Of Rock
+Event Date: 06/28/2019
+Tickets URL: https://www.bandsintown.com/e/100588841?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 4-----------------------------------
+Artist: Slayer
+Location: Helsinki
+Venue Name: Tuska Open Air
+Event Date: 06/29/2019
+Tickets URL: https://www.bandsintown.com/e/100588843?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 5-----------------------------------
+Artist: Slayer
+Location: Viveiro
+Venue Name: Resurrection Fest
+Event Date: 07/04/2019
+Tickets URL: https://www.bandsintown.com/e/100537062?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 6-----------------------------------
+Artist: Slayer
+Location: Lisbon
+Venue Name: Heavy Rock Festival Stadium Restelo
+Event Date: 07/05/2019
+Tickets URL: https://www.bandsintown.com/e/100562749?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 7-----------------------------------
+Artist: Slayer
+Location: Vérone
+Venue Name: Rock the Castle
+Event Date: 07/07/2019
+Tickets URL: https://www.bandsintown.com/e/100562746?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 8-----------------------------------
+Artist: Slayer
+Location: Bucharest
+Venue Name: Arenele Romane
+Event Date: 07/10/2019
+Tickets URL: https://www.bandsintown.com/e/100588848?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 9-----------------------------------
+Artist: Slayer
+Location: Sofia
+Venue Name: Sofia Airport Park
+Event Date: 07/11/2019
+Tickets URL: https://www.bandsintown.com/e/100588850?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 10-----------------------------------
+Artist: Slayer
+Location: Athens
+Venue Name: AthensRocks Apostolos Nikolaidis Stadium
+Event Date: 07/13/2019
+Tickets URL: https://www.bandsintown.com/e/100625902?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+
+
+Concert Search Info
+
+
+-------------------------------Event: 1-----------------------------------
+Artist: Slayer
+Location: Saint-hilaire-de-clisson
+Venue Name: Hellfest
+Event Date: 06/23/2019
+Tickets URL: https://www.bandsintown.com/e/100496115?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 2-----------------------------------
+Artist: Slayer
+Location: Praha
+Venue Name: Tipsport Arena
+Event Date: 06/25/2019
+Tickets URL: https://www.bandsintown.com/e/100562738?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 3-----------------------------------
+Artist: Slayer
+Location: Oslo
+Venue Name: Tons Of Rock
+Event Date: 06/28/2019
+Tickets URL: https://www.bandsintown.com/e/100588841?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 4-----------------------------------
+Artist: Slayer
+Location: Helsinki
+Venue Name: Tuska Open Air
+Event Date: 06/29/2019
+Tickets URL: https://www.bandsintown.com/e/100588843?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 5-----------------------------------
+Artist: Slayer
+Location: Viveiro
+Venue Name: Resurrection Fest
+Event Date: 07/04/2019
+Tickets URL: https://www.bandsintown.com/e/100537062?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 6-----------------------------------
+Artist: Slayer
+Location: Lisbon
+Venue Name: Heavy Rock Festival Stadium Restelo
+Event Date: 07/05/2019
+Tickets URL: https://www.bandsintown.com/e/100562749?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 7-----------------------------------
+Artist: Slayer
+Location: Vérone
+Venue Name: Rock the Castle
+Event Date: 07/07/2019
+Tickets URL: https://www.bandsintown.com/e/100562746?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 8-----------------------------------
+Artist: Slayer
+Location: Bucharest
+Venue Name: Arenele Romane
+Event Date: 07/10/2019
+Tickets URL: https://www.bandsintown.com/e/100588848?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 9-----------------------------------
+Artist: Slayer
+Location: Sofia
+Venue Name: Sofia Airport Park
+Event Date: 07/11/2019
+Tickets URL: https://www.bandsintown.com/e/100588850?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 10-----------------------------------
+Artist: Slayer
+Location: Athens
+Venue Name: AthensRocks Apostolos Nikolaidis Stadium
+Event Date: 07/13/2019
+Tickets URL: https://www.bandsintown.com/e/100625902?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+
+
+Concert Search Info
+
+
+-------------------------------Event: 1-----------------------------------
+Artist: Slayer
+Location: Saint-hilaire-de-clisson
+Venue Name: Hellfest
+Event Date: 06/23/2019
+Tickets URL: https://www.bandsintown.com/e/100496115?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 2-----------------------------------
+Artist: Slayer
+Location: Praha
+Venue Name: Tipsport Arena
+Event Date: 06/25/2019
+Tickets URL: https://www.bandsintown.com/e/100562738?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 3-----------------------------------
+Artist: Slayer
+Location: Oslo
+Venue Name: Tons Of Rock
+Event Date: 06/28/2019
+Tickets URL: https://www.bandsintown.com/e/100588841?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 4-----------------------------------
+Artist: Slayer
+Location: Helsinki
+Venue Name: Tuska Open Air
+Event Date: 06/29/2019
+Tickets URL: https://www.bandsintown.com/e/100588843?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 5-----------------------------------
+Artist: Slayer
+Location: Viveiro
+Venue Name: Resurrection Fest
+Event Date: 07/04/2019
+Tickets URL: https://www.bandsintown.com/e/100537062?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 6-----------------------------------
+Artist: Slayer
+Location: Lisbon
+Venue Name: Heavy Rock Festival Stadium Restelo
+Event Date: 07/05/2019
+Tickets URL: https://www.bandsintown.com/e/100562749?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 7-----------------------------------
+Artist: Slayer
+Location: Vérone
+Venue Name: Rock the Castle
+Event Date: 07/07/2019
+Tickets URL: https://www.bandsintown.com/e/100562746?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 8-----------------------------------
+Artist: Slayer
+Location: Bucharest
+Venue Name: Arenele Romane
+Event Date: 07/10/2019
+Tickets URL: https://www.bandsintown.com/e/100588848?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 9-----------------------------------
+Artist: Slayer
+Location: Sofia
+Venue Name: Sofia Airport Park
+Event Date: 07/11/2019
+Tickets URL: https://www.bandsintown.com/e/100588850?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 10-----------------------------------
+Artist: Slayer
+Location: Athens
+Venue Name: AthensRocks Apostolos Nikolaidis Stadium
+Event Date: 07/13/2019
+Tickets URL: https://www.bandsintown.com/e/100625902?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+
+
+Concert Search Info
+
+
+-------------------------------Event: 1-----------------------------------
+Artist: Slayer
+Location: Saint-hilaire-de-clisson
+Venue Name: Hellfest
+Event Date: 06/23/2019
+Tickets URL: https://www.bandsintown.com/e/100496115?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 2-----------------------------------
+Artist: Slayer
+Location: Praha
+Venue Name: Tipsport Arena
+Event Date: 06/25/2019
+Tickets URL: https://www.bandsintown.com/e/100562738?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 3-----------------------------------
+Artist: Slayer
+Location: Oslo
+Venue Name: Tons Of Rock
+Event Date: 06/28/2019
+Tickets URL: https://www.bandsintown.com/e/100588841?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 4-----------------------------------
+Artist: Slayer
+Location: Helsinki
+Venue Name: Tuska Open Air
+Event Date: 06/29/2019
+Tickets URL: https://www.bandsintown.com/e/100588843?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 5-----------------------------------
+Artist: Slayer
+Location: Viveiro
+Venue Name: Resurrection Fest
+Event Date: 07/04/2019
+Tickets URL: https://www.bandsintown.com/e/100537062?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 6-----------------------------------
+Artist: Slayer
+Location: Lisbon
+Venue Name: Heavy Rock Festival Stadium Restelo
+Event Date: 07/05/2019
+Tickets URL: https://www.bandsintown.com/e/100562749?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 7-----------------------------------
+Artist: Slayer
+Location: Vérone
+Venue Name: Rock the Castle
+Event Date: 07/07/2019
+Tickets URL: https://www.bandsintown.com/e/100562746?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 8-----------------------------------
+Artist: Slayer
+Location: Bucharest
+Venue Name: Arenele Romane
+Event Date: 07/10/2019
+Tickets URL: https://www.bandsintown.com/e/100588848?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 9-----------------------------------
+Artist: Slayer
+Location: Sofia
+Venue Name: Sofia Airport Park
+Event Date: 07/11/2019
+Tickets URL: https://www.bandsintown.com/e/100588850?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 10-----------------------------------
+Artist: Slayer
+Location: Athens
+Venue Name: AthensRocks Apostolos Nikolaidis Stadium
+Event Date: 07/13/2019
+Tickets URL: https://www.bandsintown.com/e/100625902?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+
+
+Concert Search Info
+
+
+-------------------------------Event: 1-----------------------------------
+Artist: Slayer
+Location: Saint-hilaire-de-clisson
+Venue Name: Hellfest
+Event Date: 06/23/2019
+Tickets URL: https://www.bandsintown.com/e/100496115?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 2-----------------------------------
+Artist: Slayer
+Location: Praha
+Venue Name: Tipsport Arena
+Event Date: 06/25/2019
+Tickets URL: https://www.bandsintown.com/e/100562738?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 3-----------------------------------
+Artist: Slayer
+Location: Oslo
+Venue Name: Tons Of Rock
+Event Date: 06/28/2019
+Tickets URL: https://www.bandsintown.com/e/100588841?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 4-----------------------------------
+Artist: Slayer
+Location: Helsinki
+Venue Name: Tuska Open Air
+Event Date: 06/29/2019
+Tickets URL: https://www.bandsintown.com/e/100588843?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 5-----------------------------------
+Artist: Slayer
+Location: Viveiro
+Venue Name: Resurrection Fest
+Event Date: 07/04/2019
+Tickets URL: https://www.bandsintown.com/e/100537062?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 6-----------------------------------
+Artist: Slayer
+Location: Lisbon
+Venue Name: Heavy Rock Festival Stadium Restelo
+Event Date: 07/05/2019
+Tickets URL: https://www.bandsintown.com/e/100562749?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 7-----------------------------------
+Artist: Slayer
+Location: Vérone
+Venue Name: Rock the Castle
+Event Date: 07/07/2019
+Tickets URL: https://www.bandsintown.com/e/100562746?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 8-----------------------------------
+Artist: Slayer
+Location: Bucharest
+Venue Name: Arenele Romane
+Event Date: 07/10/2019
+Tickets URL: https://www.bandsintown.com/e/100588848?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 9-----------------------------------
+Artist: Slayer
+Location: Sofia
+Venue Name: Sofia Airport Park
+Event Date: 07/11/2019
+Tickets URL: https://www.bandsintown.com/e/100588850?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 10-----------------------------------
+Artist: Slayer
+Location: Athens
+Venue Name: AthensRocks Apostolos Nikolaidis Stadium
+Event Date: 07/13/2019
+Tickets URL: https://www.bandsintown.com/e/100625902?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+
+
+Concert Search Info
+
+
+-------------------------------Event: 1-----------------------------------
+Artist: Slayer
+Location: Saint-hilaire-de-clisson
+Venue Name: Hellfest
+Event Date: 06/23/2019
+Tickets URL: https://www.bandsintown.com/e/100496115?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 2-----------------------------------
+Artist: Slayer
+Location: Praha
+Venue Name: Tipsport Arena
+Event Date: 06/25/2019
+Tickets URL: https://www.bandsintown.com/e/100562738?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 3-----------------------------------
+Artist: Slayer
+Location: Oslo
+Venue Name: Tons Of Rock
+Event Date: 06/28/2019
+Tickets URL: https://www.bandsintown.com/e/100588841?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 4-----------------------------------
+Artist: Slayer
+Location: Helsinki
+Venue Name: Tuska Open Air
+Event Date: 06/29/2019
+Tickets URL: https://www.bandsintown.com/e/100588843?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 5-----------------------------------
+Artist: Slayer
+Location: Viveiro
+Venue Name: Resurrection Fest
+Event Date: 07/04/2019
+Tickets URL: https://www.bandsintown.com/e/100537062?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 6-----------------------------------
+Artist: Slayer
+Location: Lisbon
+Venue Name: Heavy Rock Festival Stadium Restelo
+Event Date: 07/05/2019
+Tickets URL: https://www.bandsintown.com/e/100562749?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 7-----------------------------------
+Artist: Slayer
+Location: Vérone
+Venue Name: Rock the Castle
+Event Date: 07/07/2019
+Tickets URL: https://www.bandsintown.com/e/100562746?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 8-----------------------------------
+Artist: Slayer
+Location: Bucharest
+Venue Name: Arenele Romane
+Event Date: 07/10/2019
+Tickets URL: https://www.bandsintown.com/e/100588848?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 9-----------------------------------
+Artist: Slayer
+Location: Sofia
+Venue Name: Sofia Airport Park
+Event Date: 07/11/2019
+Tickets URL: https://www.bandsintown.com/e/100588850?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 10-----------------------------------
+Artist: Slayer
+Location: Athens
+Venue Name: AthensRocks Apostolos Nikolaidis Stadium
+Event Date: 07/13/2019
+Tickets URL: https://www.bandsintown.com/e/100625902?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+----------------------------------------------------------------------
+
+
+Concert Search Info
+
+
+-------------------------------Event: 1-----------------------------------
+Artist: undefined
+
+
+Concert Search Info
+
+
+
+
+Concert Search Info
+
+
+-------------------------------Event: 1-----------------------------------
+Artist: Slayer
+Location: Saint-hilaire-de-clisson
+Venue Name: Hellfest
+Event Date: 06/23/2019
+Tickets URL: https://www.bandsintown.com/e/100496115?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 2-----------------------------------
+Artist: Slayer
+Location: Praha
+Venue Name: Tipsport Arena
+Event Date: 06/25/2019
+Tickets URL: https://www.bandsintown.com/e/100562738?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 3-----------------------------------
+Artist: Slayer
+Location: Oslo
+Venue Name: Tons Of Rock
+Event Date: 06/28/2019
+Tickets URL: https://www.bandsintown.com/e/100588841?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 4-----------------------------------
+Artist: Slayer
+Location: Helsinki
+Venue Name: Tuska Open Air
+Event Date: 06/29/2019
+Tickets URL: https://www.bandsintown.com/e/100588843?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 5-----------------------------------
+Artist: Slayer
+Location: Viveiro
+Venue Name: Resurrection Fest
+Event Date: 07/04/2019
+Tickets URL: https://www.bandsintown.com/e/100537062?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 6-----------------------------------
+Artist: Slayer
+Location: Lisbon
+Venue Name: Heavy Rock Festival Stadium Restelo
+Event Date: 07/05/2019
+Tickets URL: https://www.bandsintown.com/e/100562749?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 7-----------------------------------
+Artist: Slayer
+Location: Vérone
+Venue Name: Rock the Castle
+Event Date: 07/07/2019
+Tickets URL: https://www.bandsintown.com/e/100562746?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 8-----------------------------------
+Artist: Slayer
+Location: Bucharest
+Venue Name: Arenele Romane
+Event Date: 07/10/2019
+Tickets URL: https://www.bandsintown.com/e/100588848?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 9-----------------------------------
+Artist: Slayer
+Location: Sofia
+Venue Name: Sofia Airport Park
+Event Date: 07/11/2019
+Tickets URL: https://www.bandsintown.com/e/100588850?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 10-----------------------------------
+Artist: Slayer
+Location: Athens
+Venue Name: AthensRocks Apostolos Nikolaidis Stadium
+Event Date: 07/13/2019
+Tickets URL: https://www.bandsintown.com/e/100625902?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+----------------------------------------------------------------------
+
+
+Concert Search Info
+
+
+-------------------------------Event: 1-----------------------------------
+Artist: Slayer
+Location: Saint-hilaire-de-clisson
+Venue Name: Hellfest
+Event Date: 06/23/2019
+Tickets URL: https://www.bandsintown.com/e/100496115?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 2-----------------------------------
+Artist: Slayer
+Location: Praha
+Venue Name: Tipsport Arena
+Event Date: 06/25/2019
+Tickets URL: https://www.bandsintown.com/e/100562738?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 3-----------------------------------
+Artist: Slayer
+Location: Oslo
+Venue Name: Tons Of Rock
+Event Date: 06/28/2019
+Tickets URL: https://www.bandsintown.com/e/100588841?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 4-----------------------------------
+Artist: Slayer
+Location: Helsinki
+Venue Name: Tuska Open Air
+Event Date: 06/29/2019
+Tickets URL: https://www.bandsintown.com/e/100588843?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 5-----------------------------------
+Artist: Slayer
+Location: Viveiro
+Venue Name: Resurrection Fest
+Event Date: 07/04/2019
+Tickets URL: https://www.bandsintown.com/e/100537062?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 6-----------------------------------
+Artist: Slayer
+Location: Lisbon
+Venue Name: Heavy Rock Festival Stadium Restelo
+Event Date: 07/05/2019
+Tickets URL: https://www.bandsintown.com/e/100562749?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 7-----------------------------------
+Artist: Slayer
+Location: Vérone
+Venue Name: Rock the Castle
+Event Date: 07/07/2019
+Tickets URL: https://www.bandsintown.com/e/100562746?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 8-----------------------------------
+Artist: Slayer
+Location: Bucharest
+Venue Name: Arenele Romane
+Event Date: 07/10/2019
+Tickets URL: https://www.bandsintown.com/e/100588848?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 9-----------------------------------
+Artist: Slayer
+Location: Sofia
+Venue Name: Sofia Airport Park
+Event Date: 07/11/2019
+Tickets URL: https://www.bandsintown.com/e/100588850?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 10-----------------------------------
+Artist: Slayer
+Location: Athens
+Venue Name: AthensRocks Apostolos Nikolaidis Stadium
+Event Date: 07/13/2019
+Tickets URL: https://www.bandsintown.com/e/100625902?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+
+
+OMDB Search Info
+
+
+---------------------------Info-------------------------------
+Movie Title: Highlander
+Release Date: 03/07/1986
+IMDB Rating: 7.2
+Rotton Tomatoes Rating: 68%
+Country Produced: UK
+Language: English
+Plot: An immortal Scottish swordsman must confront the last of his immortal opponent, a murderously brutal barbarian who lusts for the fabled "Prize".
+Actors: Christopher Lambert, Roxanne Hart, Clancy Brown, Sean Connery
+--------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Drake
+Song Name: Teenage Fever
+Preview Link: https://api.spotify.com/v1/tracks/6n3HGiq4v35D6eFOSwqYuo
+Album: More Life
+Release Date: 03/18/2017
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: The Who
+Song Name: Baba O'Riley
+Preview Link: https://api.spotify.com/v1/tracks/3qiyyUfYe7CRYLucrPmulD
+Album: Who's Next
+Release Date: 08/14/1971
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Wheatus
+Song Name: Teenage Dirtbag
+Preview Link: https://api.spotify.com/v1/tracks/3LI4MmibTkXH5cGpCGZgyw
+Album: Songs From Dawson's Creek, Vol. II
+Release Date: 09/29/2000
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Tate McRae
+Song Name: Teenage Mind
+Preview Link: https://api.spotify.com/v1/tracks/70vdb3Nf9sUaOax5c6phOT
+Album: Teenage Mind
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Katy Perry
+Song Name: Teenage Dream
+Preview Link: https://api.spotify.com/v1/tracks/55qBw1900pZKfXJ6Q9A2Lc
+Album: Katy Perry - Teenage Dream: The Complete Confection
+Release Date: 03/12/2012
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Katy Perry
+Song Name: Teenage Dream
+Preview Link: https://api.spotify.com/v1/tracks/5jzKL4BDMClWqRguW5qZvh
+Album: Teenage Dream
+Release Date: 01/01/2010
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Katy Perry
+Song Name: Last Friday Night (T.G.I.F.)
+Preview Link: https://api.spotify.com/v1/tracks/455AfCsOhhLPRc68sE01D8
+Album: Katy Perry - Teenage Dream: The Complete Confection
+Release Date: 03/12/2012
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Katy Perry
+Song Name: Firework
+Preview Link: https://api.spotify.com/v1/tracks/4lCv7b86sLynZbXhfScfm2
+Album: Katy Perry - Teenage Dream: The Complete Confection
+Release Date: 03/12/2012
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Katy Perry
+Song Name: Last Friday Night (T.G.I.F.)
+Preview Link: https://api.spotify.com/v1/tracks/3avYqdwHKEq8beXbeWCKqJ
+Album: Teenage Dream
+Release Date: 01/01/2010
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: Jorja Smith
+Song Name: Teenage Fantasy
+Preview Link: https://api.spotify.com/v1/tracks/0fIFjeeLJjIBliWUCsxyMF
+Album: Lost & Found
+Release Date: 06/08/2018
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+Release Date: 10/23/2001
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/47BBI51FKFwOMlIiX6m8ya
+Album: Millennium
+Release Date: 05/18/1999
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way - Reimagined
+Preview Link: https://api.spotify.com/v1/tracks/62KnDRUq6CBcT7Bqb9IHKV
+Album: I Want It That Way (Reimagined)
+Release Date: 05/17/2019
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Anthem Lights
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/3Ww6kEWxLh4Ub4WPJ9hMtA
+Album: Covers Part IV
+Release Date: 07/17/2015
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Mick Jensen
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/0ympGdYdVlZ8zo6irdjMvd
+Album: I Want It That Way
+Release Date: 11/22/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Jess and Gabriel
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/52FgeDoHydoWZbFGgxwCdH
+Album: Under the Covers, Vol. 3
+Release Date: 04/23/2019
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Tyler and Mark
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/7k52T0b1v9ktm2gJwlO5yy
+Album: Beautiful Dreams
+Release Date: 08/28/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview Link: https://api.spotify.com/v1/tracks/4vHb50VkxDzHYwLiHfWczK
+Album: Poodle Hat
+Release Date: 05/20/2003
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Dynamite Boy
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/0X5ygHsca3pJ3KErPsXhGc
+Album: Punk Goes Pop
+Release Date: 01/01/2001
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/1zCiqxhampG4dcC7HEqPu5
+Album: 90 Sweet 90s Hits!
+Release Date: 06/10/2014
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+Release Date: 10/23/2001
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/47BBI51FKFwOMlIiX6m8ya
+Album: Millennium
+Release Date: 05/18/1999
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way - Reimagined
+Preview Link: https://api.spotify.com/v1/tracks/62KnDRUq6CBcT7Bqb9IHKV
+Album: I Want It That Way (Reimagined)
+Release Date: 05/17/2019
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Anthem Lights
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/3Ww6kEWxLh4Ub4WPJ9hMtA
+Album: Covers Part IV
+Release Date: 07/17/2015
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Mick Jensen
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/0ympGdYdVlZ8zo6irdjMvd
+Album: I Want It That Way
+Release Date: 11/22/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Jess and Gabriel
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/52FgeDoHydoWZbFGgxwCdH
+Album: Under the Covers, Vol. 3
+Release Date: 04/23/2019
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Tyler and Mark
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/7k52T0b1v9ktm2gJwlO5yy
+Album: Beautiful Dreams
+Release Date: 08/28/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview Link: https://api.spotify.com/v1/tracks/4vHb50VkxDzHYwLiHfWczK
+Album: Poodle Hat
+Release Date: 05/20/2003
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Dynamite Boy
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/0X5ygHsca3pJ3KErPsXhGc
+Album: Punk Goes Pop
+Release Date: 01/01/2001
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/1zCiqxhampG4dcC7HEqPu5
+Album: 90 Sweet 90s Hits!
+Release Date: 06/10/2014
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Drake
+Song Name: Teenage Fever
+Preview Link: https://api.spotify.com/v1/tracks/6n3HGiq4v35D6eFOSwqYuo
+Album: More Life
+Release Date: 03/18/2017
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: The Who
+Song Name: Baba O'Riley
+Preview Link: https://api.spotify.com/v1/tracks/3qiyyUfYe7CRYLucrPmulD
+Album: Who's Next
+Release Date: 08/14/1971
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Wheatus
+Song Name: Teenage Dirtbag
+Preview Link: https://api.spotify.com/v1/tracks/3LI4MmibTkXH5cGpCGZgyw
+Album: Songs From Dawson's Creek, Vol. II
+Release Date: 09/29/2000
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Tate McRae
+Song Name: Teenage Mind
+Preview Link: https://api.spotify.com/v1/tracks/70vdb3Nf9sUaOax5c6phOT
+Album: Teenage Mind
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Katy Perry
+Song Name: Teenage Dream
+Preview Link: https://api.spotify.com/v1/tracks/55qBw1900pZKfXJ6Q9A2Lc
+Album: Katy Perry - Teenage Dream: The Complete Confection
+Release Date: 03/12/2012
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Katy Perry
+Song Name: Teenage Dream
+Preview Link: https://api.spotify.com/v1/tracks/5jzKL4BDMClWqRguW5qZvh
+Album: Teenage Dream
+Release Date: 01/01/2010
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Katy Perry
+Song Name: Last Friday Night (T.G.I.F.)
+Preview Link: https://api.spotify.com/v1/tracks/455AfCsOhhLPRc68sE01D8
+Album: Katy Perry - Teenage Dream: The Complete Confection
+Release Date: 03/12/2012
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Katy Perry
+Song Name: Firework
+Preview Link: https://api.spotify.com/v1/tracks/4lCv7b86sLynZbXhfScfm2
+Album: Katy Perry - Teenage Dream: The Complete Confection
+Release Date: 03/12/2012
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Katy Perry
+Song Name: Last Friday Night (T.G.I.F.)
+Preview Link: https://api.spotify.com/v1/tracks/3avYqdwHKEq8beXbeWCKqJ
+Album: Teenage Dream
+Release Date: 01/01/2010
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: Jorja Smith
+Song Name: Teenage Fantasy
+Preview Link: https://api.spotify.com/v1/tracks/0fIFjeeLJjIBliWUCsxyMF
+Album: Lost & Found
+Release Date: 06/08/2018
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+
+
+Spotify Search Info
+
+
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Drake
+Song Name: Teenage Fever
+Preview Link: https://api.spotify.com/v1/tracks/6n3HGiq4v35D6eFOSwqYuo
+Album: More Life
+Release Date: 03/18/2017
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: The Who
+Song Name: Baba O'Riley
+Preview Link: https://api.spotify.com/v1/tracks/3qiyyUfYe7CRYLucrPmulD
+Album: Who's Next
+Release Date: 08/14/1971
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Wheatus
+Song Name: Teenage Dirtbag
+Preview Link: https://api.spotify.com/v1/tracks/3LI4MmibTkXH5cGpCGZgyw
+Album: Songs From Dawson's Creek, Vol. II
+Release Date: 09/29/2000
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Tate McRae
+Song Name: Teenage Mind
+Preview Link: https://api.spotify.com/v1/tracks/70vdb3Nf9sUaOax5c6phOT
+Album: Teenage Mind
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Katy Perry
+Song Name: Teenage Dream
+Preview Link: https://api.spotify.com/v1/tracks/55qBw1900pZKfXJ6Q9A2Lc
+Album: Katy Perry - Teenage Dream: The Complete Confection
+Release Date: 03/12/2012
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Katy Perry
+Song Name: Teenage Dream
+Preview Link: https://api.spotify.com/v1/tracks/5jzKL4BDMClWqRguW5qZvh
+Album: Teenage Dream
+Release Date: 01/01/2010
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Katy Perry
+Song Name: Last Friday Night (T.G.I.F.)
+Preview Link: https://api.spotify.com/v1/tracks/455AfCsOhhLPRc68sE01D8
+Album: Katy Perry - Teenage Dream: The Complete Confection
+Release Date: 03/12/2012
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Katy Perry
+Song Name: Firework
+Preview Link: https://api.spotify.com/v1/tracks/4lCv7b86sLynZbXhfScfm2
+Album: Katy Perry - Teenage Dream: The Complete Confection
+Release Date: 03/12/2012
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Katy Perry
+Song Name: Last Friday Night (T.G.I.F.)
+Preview Link: https://api.spotify.com/v1/tracks/3avYqdwHKEq8beXbeWCKqJ
+Album: Teenage Dream
+Release Date: 01/01/2010
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: Jorja Smith
+Song Name: Teenage Fantasy
+Preview Link: https://api.spotify.com/v1/tracks/0fIFjeeLJjIBliWUCsxyMF
+Album: Lost & Found
+Release Date: 06/08/2018
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+Release Date: 10/23/2001
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/47BBI51FKFwOMlIiX6m8ya
+Album: Millennium
+Release Date: 05/18/1999
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way - Reimagined
+Preview Link: https://api.spotify.com/v1/tracks/62KnDRUq6CBcT7Bqb9IHKV
+Album: I Want It That Way (Reimagined)
+Release Date: 05/17/2019
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Anthem Lights
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/3Ww6kEWxLh4Ub4WPJ9hMtA
+Album: Covers Part IV
+Release Date: 07/17/2015
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Mick Jensen
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/0ympGdYdVlZ8zo6irdjMvd
+Album: I Want It That Way
+Release Date: 11/22/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Jess and Gabriel
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/52FgeDoHydoWZbFGgxwCdH
+Album: Under the Covers, Vol. 3
+Release Date: 04/23/2019
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Tyler and Mark
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/7k52T0b1v9ktm2gJwlO5yy
+Album: Beautiful Dreams
+Release Date: 08/28/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview Link: https://api.spotify.com/v1/tracks/4vHb50VkxDzHYwLiHfWczK
+Album: Poodle Hat
+Release Date: 05/20/2003
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Dynamite Boy
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/0X5ygHsca3pJ3KErPsXhGc
+Album: Punk Goes Pop
+Release Date: 01/01/2001
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/1zCiqxhampG4dcC7HEqPu5
+Album: 90 Sweet 90s Hits!
+Release Date: 06/10/2014
+----------------------------------------------------------------------

@@ -11,9 +11,9 @@ Will console log a statement "Invalid Search, please type any of the following c
     -movie-this
     -do-what-it-says
 
-***"node liri.js concert-this (artist-name)":***
+***"node liri.js concert-this (artist-name) (search-limit#)":***
 
-This command will produce a console log print out (and log to the log.txt file) of 10 upcoming events (search limit can be changed within code) of the following:
+This command will produce a console log print out (and log to the log.txt file) the amount of events based on ***(search-amount)*** of the following:
 
     -Artist: <name>
     -Location: <city>
@@ -22,10 +22,11 @@ This command will produce a console log print out (and log to the log.txt file) 
     -Ticket URL: <link to ticket purchasing>
 
 If ***(artist-name)*** is left blank, the search will default to "The Wiggles
+If ***(search-limit#)*** is left blank, default search amount will be 10
 
-***"node liri.js spotify-this-song (song-name, all or partial)":***
+***"node liri.js spotify-this-song (song-name, all or partial) (search amount#)":***
 
-This command will produce a console log print out (also logs to log.tx file) of 10 songs within search criteria (search limit can be changed within code) of the following:
+This command will produce a console log print out (also logs to log.tx file) the amount of events based on ***(search-amount)*** of the following:
 
     -Artist: <name>
     -Song Name: <title>
@@ -35,6 +36,7 @@ This command will produce a console log print out (also logs to log.tx file) of 
 
 If ***(song name)*** is wrapped in "", will search for that specific title
 If ***(song-name)*** is left blank, the search will default to "macarena"
+If ***(search-limit)*** is left blank, default search amount will be 10
 
 ***"none liri.js movie-this (movie-title)":***
 

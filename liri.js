@@ -13,26 +13,27 @@ moment().format();
 
 //input variables
 var searchRequest = process.argv[2];
-var input;
+var input = process.argv[3];
+var searchLimit = process.argv[4];
 
 //Execute functions
-UserInputs(searchRequest, input);
+UserInputs(searchRequest, input, searchLimit);
 
 //function requests
 // search functions for each API
 function UserInputs(searchRequest, input) {
     switch (searchRequest) {
         case 'concert-this':
-            concertSearch(input);
+            concertSearch(input, searchLimit);
             break;
         case 'spotify-this-song':
             //debubbing do-what-it-says
             // console.log("UserInput Function: " + searchRequest);
-            console.log("UserInput Function: " + input);
-            spotifySearch(input);
+            // console.log("UserInput Function: " + input);
+            spotifySearch(input, searchLimit);
             break;
         case 'movie-this':
-            omdbSearch(input);
+            omdbSearch(input, searchLimit);
             break;
         case 'do-what-it-says':
             txtShowSearch();
@@ -52,27 +53,29 @@ function concertSearch() {
         fs.appendFileSync("log.txt", "\n"); //append to log.txt file
         fs.appendFileSync("log.txt", "Concert Search Info\n"); //append to log.txt file
         fs.appendFileSync("log.txt", "\n"); //append to log.txt file
-        fs.appendFileSync("log.txt", "\n"); //append to log.txt file
 
-        var input = process.argv[3];
-        if (input === undefined) {
-            var input = "The Wiggles"; //default search if none selected
-        }
+        console.log("Within Function: " + input);
+
         var bandsUrl = "https://rest.bandsintown.com/artists/" + input + "/events?app_id=codingbootcamp";
 
         //concert data retrieval
         axios.get(bandsUrl).then(
             function(bandsResponse) {
                 // console.log(bandsResponse);
-
-                var searchLimit = 10;
+                if (input === undefined) {
+                    var input = "The Wiggles"; //default search if none selected
+                }
+                // default search amount if left blank
+                if (searchLimit === undefined) {
+                    searchLimit = 10;
+                }
 
                 for (i = 0; i < searchLimit; i++) {
 
                     var showDate = bandsResponse.data[i].datetime
                     var showDateRtn = moment(showDate).format("MM/DD/YYYY");
 
-                    console.log("-------------------------------Event: " + [i + 1] + "-----------------------------------");
+                    console.log("------------------------------Event#: " + [i + 1] + "-----------------------------------");
                     fs.appendFileSync("log.txt", "-------------------------------Event: " + [i + 1] + "-----------------------------------\n"); //append to log.txt file
                     console.log("Artist: " + bandsResponse.data[i].lineup);
                     fs.appendFileSync("log.txt", "Artist: " + bandsResponse.data[i].lineup + "\n"); //append to log.txt file
@@ -105,24 +108,26 @@ function spotifySearch() {
         fs.appendFileSync("log.txt", "\n"); //append to log.txt file
         fs.appendFileSync("log.txt", "\n"); //append to log.txt file
 
-        var input = process.argv[3];
-
         //debugging do-what-it-says
         // console.log("This Function Ran");
         // console.log("Within Function Search: " + searchRequest);
-        console.log("Within Function Input: " + input);
+        // console.log("Within Function Input: " + input);
 
         if (input === undefined) {
-            var input = "macarena"; //default search if none selected
+            input = "macarena"; //default search if none selected
         }
 
         spotify.search({ type: 'track', query: input }, function(err, spotifyResponse) {
             if (err) {
                 return console.log('Error occurred: ' + err);
             }
-
-            var searchLimit = 10;
             // console.log(spotifyResponse);
+            // console.log("Within Function Input: " + input);
+
+            // default search amount if left blank
+            if (searchLimit === undefined) {
+                searchLimit = 10;
+            }
 
             for (l = 0; l < searchLimit; l++) {
 
@@ -131,7 +136,7 @@ function spotifySearch() {
 
                 // console.log(spotifyResponse.tracks.items[0]);
                 // console.log(data);
-                console.log("----------------------------Track# " + [l + 1] + " --------------------------------");
+                console.log("---------------------------Track#: " + [l + 1] + " --------------------------------");
                 fs.appendFileSync("log.txt", "----------------------------Track# " + [l + 1] + " --------------------------------\n") //append to log.txt file
                 console.log("Artist: " + spotifyResponse.tracks.items[l].artists[0].name);
                 fs.appendFileSync("log.txt", "Artist: " + spotifyResponse.tracks.items[l].artists[0].name + "\n") //append to log.txt file
@@ -162,7 +167,8 @@ function omdbSearch() {
         fs.appendFileSync("log.txt", "\n"); //append to log.txt file
         fs.appendFileSync("log.txt", "\n"); //append to log.txt file
 
-        var input = process.argv[3];
+        console.log("Within Function: " + input);
+
         if (input === undefined) { //default search if none selected
 
             fs.appendFileSync("log.txt", "\n"); //append to log.txt file
@@ -224,13 +230,14 @@ function txtShowSearch() {
 
         //debugging
         // console.log("Before Function: " + dataArr[0]);
-        console.log("Before Function: " + dataArr[1]);
+        // console.log("Before Function: " + dataArr[1]);
 
         searchRequest = dataArr[0];
         input = dataArr[1];
 
-        // UserInputs(dataArr[0], dataArr[1]);
+        //spotify song search function call
         UserInputs(searchRequest, input)
+
     });
 
 }
