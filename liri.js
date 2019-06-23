@@ -26,6 +26,9 @@ function UserInputs(searchRequest, input) {
             concertSearch(input);
             break;
         case 'spotify-this-song':
+            //debubbing do-what-it-says
+            // console.log("UserInput Function: " + searchRequest);
+            console.log("UserInput Function: " + input);
             spotifySearch(input);
             break;
         case 'movie-this':
@@ -103,6 +106,12 @@ function spotifySearch() {
         fs.appendFileSync("log.txt", "\n"); //append to log.txt file
 
         var input = process.argv[3];
+
+        //debugging do-what-it-says
+        // console.log("This Function Ran");
+        // console.log("Within Function Search: " + searchRequest);
+        console.log("Within Function Input: " + input);
+
         if (input === undefined) {
             var input = "macarena"; //default search if none selected
         }
@@ -201,12 +210,27 @@ function omdbSearch() {
     }
 };
 
-//text file search
+// text file spotify search
 function txtShowSearch() {
-    if (searchRequest === "do-what-it-says") {
-        console.log("Reading From the Text File");
 
-        // var input = process.argv[3];
-        // var movieUrl = "http://www.omdbapi.com/?t=" + input + "&y=&plot=short&apikey=trilogy";
-    }
+    console.log("Reading From the Text File");
+
+    fs.readFile('random.txt', 'utf8', function(err, data) {
+        if (err) {
+            return console.log(err);
+        }
+
+        var dataArr = data.split(',');
+
+        //debugging
+        // console.log("Before Function: " + dataArr[0]);
+        console.log("Before Function: " + dataArr[1]);
+
+        searchRequest = dataArr[0];
+        input = dataArr[1];
+
+        // UserInputs(dataArr[0], dataArr[1]);
+        UserInputs(searchRequest, input)
+    });
+
 }

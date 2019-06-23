@@ -223,3 +223,1803 @@ Preview Link: https://api.spotify.com/v1/tracks/3LcYYV9ozePfgYYmXv0P3r
 Album: Sweet Baby James
 Release Date: 01/01/1970
 ----------------------------------------------------------------------
+
+
+Concert Search Info
+
+
+-------------------------------Event: 1-----------------------------------
+Artist: Anthrax,Trivium,Lamb of God,Slayer,Enter Shikari,Lynyrd Skynyrd,Cannibal Corpse,Stone Temple Pilots,Refused,Clutch,Testament,Deicide,Devourment,Municipal Waste,High on Fire,Death Angel,Blackberry Smoke,Carpathian Forest,Sleep,Nasty,Tool,Vomitory,Immolation,Yob,The Obsessed ,Brutus,Revocation,Slash,Myles Kennedy,Bliss of Flesh,Skald,The Amsterdam Red-Light District,Beartooth,Insanity Alert,Emma Ruth Rundle,Messa,Employed To Serve,Phil Anselmo and The Illegals,DDENT,Wiegedood,NOVA TWINS
+Location: Saint-hilaire-de-clisson
+Venue Name: Complexe Du Val De Moine
+Event Date: 06/23/2019
+Tickets URL: https://www.bandsintown.com/e/1012735952?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 2-----------------------------------
+Artist: Anthrax
+Location: Praha
+Venue Name: Tipsport Arena 
+Event Date: 06/25/2019
+Tickets URL: https://www.bandsintown.com/e/100812604?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 3-----------------------------------
+Artist: Anthrax
+Location: Hannover
+Venue Name: Capitol
+Event Date: 06/26/2019
+Tickets URL: https://www.bandsintown.com/e/100908727?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 4-----------------------------------
+Artist: Anthrax,Slayer,Dimmu Borgir,Sick of It All,Cult of Luna,Amorphis,Halestorm,Delain,Stam1na,Maj Karma,Powertrip,Kvelertak,Tuska,Jinjer,Alien Weaponry
+Location: Hki
+Venue Name: Tuska
+Event Date: 06/28/2019
+Tickets URL: https://www.bandsintown.com/e/1013051441?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 5-----------------------------------
+Artist: Anthrax
+Location: Aarhus
+Venue Name: Ceres Plaza
+Event Date: 06/29/2019
+Tickets URL: https://www.bandsintown.com/e/100560416?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 6-----------------------------------
+Artist: Anthrax
+Location: Athens
+Venue Name: Plateia Nerou
+Event Date: 06/30/2019
+Tickets URL: https://www.bandsintown.com/e/101148709?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 7-----------------------------------
+Artist: Anthrax
+Location: Sofia
+Venue Name: Airport Park
+Event Date: 07/11/2019
+Tickets URL: https://www.bandsintown.com/e/100914805?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 8-----------------------------------
+Artist: Anthrax,Evanescence,Atreyu,Killswitch Engage,Godsmack,Slayer,Skillet,All That Remains,Hatebreed,In This Moment,Terror,Despised Icon,Clutch,Kataklysm,Cancer Bats,Fu Manchu,Municipal Waste,GHOST,Metal Church,Stick to Your Guns,Quiet Riot,Steel Panther,Slash,Counterparts,Myles Kennedy,Slash feat. Myles Kennedy,Metalachi,Beartooth,Galactic Empire,Dirty Honey,Slash Feat. Myles Kennedy & the Conspirators,Metal Church - Official,Mountain Dust,Knocked Loose,3TEETH,Heavy Montreal,Beast In Black,Heavy Mania,FEVER 333
+Location: Montréal
+Venue Name: Parc Jean-Drapeau
+Event Date: 07/27/2019
+Tickets URL: https://www.bandsintown.com/e/1014274047?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 9-----------------------------------
+Artist: Anthrax
+Location: Montreal
+Venue Name: Heavy Montreal
+Event Date: 07/28/2019
+Tickets URL: https://www.bandsintown.com/e/100828369?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 10-----------------------------------
+Artist: Anthrax,Bullet for My Valentine,Slayer,Opeth,Within Temptation,Parkway Drive,Sabaton,Airbourne,Powerwolf,Prophets of Rage
+Location: Wacken
+Venue Name: Hauptstraße 82
+Event Date: 08/01/2019
+Tickets URL: https://www.bandsintown.com/e/1014964229?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Offset
+Song Name: Clout (feat. Cardi B)
+Preview Link: https://api.spotify.com/v1/tracks/59ywHNwwchG4nZJMLyxSzd
+Album: FATHER OF 4
+Release Date: 02/22/2019
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Offset
+Song Name: Legacy (feat. Travis Scott & 21 Savage)
+Preview Link: https://api.spotify.com/v1/tracks/7pMRoGLEJuFM2wl5pt0R99
+Album: FATHER OF 4
+Release Date: 02/22/2019
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Sam Smith
+Song Name: Fire On Fire - From "Watership Down"
+Preview Link: https://api.spotify.com/v1/tracks/5rFj8OzffT0iggSjcBaeND
+Album: Fire On Fire (From "Watership Down")
+Release Date: 12/21/2018
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Rihanna
+Song Name: FourFiveSeconds
+Preview Link: https://api.spotify.com/v1/tracks/78TTtXnFQPzwqlbtbwqN0y
+Album: FourFiveSeconds
+Release Date: 01/24/2015
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: The Beatles
+Song Name: Here Comes The Sun - Remastered 2009
+Preview Link: https://api.spotify.com/v1/tracks/6dGnYIeXmHdcikdzNNDMm2
+Album: Abbey Road (Remastered)
+Release Date: 09/26/1969
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Earth, Wind & Fire
+Song Name: September
+Preview Link: https://api.spotify.com/v1/tracks/7Cuk8jsPPoNYQWXK9XRFvG
+Album: September
+Release Date: 04/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Kings of Leon
+Song Name: Sex on Fire
+Preview Link: https://api.spotify.com/v1/tracks/0ntQJM78wzOLVeCUAW7Y45
+Album: Only By The Night
+Release Date: 09/23/2008
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: 2 Chainz
+Song Name: 4 AM
+Preview Link: https://api.spotify.com/v1/tracks/1nX9KhK3Fff27SnrIor2Yb
+Album: Pretty Girls Like Trap Music
+Release Date: 06/16/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Maluma
+Song Name: Felices los 4
+Preview Link: https://api.spotify.com/v1/tracks/1RouRzlg8OKFeqc6LvdxmB
+Album: F.A.M.E.
+Release Date: 05/18/2018
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: James Taylor
+Song Name: Fire and Rain
+Preview Link: https://api.spotify.com/v1/tracks/3LcYYV9ozePfgYYmXv0P3r
+Album: Sweet Baby James
+Release Date: 01/01/1970
+----------------------------------------------------------------------
+
+
+Concert Search Info
+
+
+-------------------------------Event: 1-----------------------------------
+Artist: The Wiggles
+Location: Portland
+Venue Name: Aladdin Theater
+Event Date: 07/28/2019
+Tickets URL: https://www.bandsintown.com/e/1014702335?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 2-----------------------------------
+Artist: The Wiggles
+Location: San Francisco
+Venue Name: August Hall
+Event Date: 08/01/2019
+Tickets URL: https://www.bandsintown.com/e/1014828758?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 3-----------------------------------
+Artist: The Wiggles
+Location: Anaheim
+Venue Name: City National Grove Of Anaheim
+Event Date: 08/02/2019
+Tickets URL: https://www.bandsintown.com/e/1014994497?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 4-----------------------------------
+Artist: The Wiggles
+Location: Phoenix
+Venue Name: Orpheum Theatre Phoenix
+Event Date: 08/05/2019
+Tickets URL: https://www.bandsintown.com/e/1015062562?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 5-----------------------------------
+Artist: The Wiggles
+Location: Pueblo
+Venue Name: Pueblo Memorial Hall
+Event Date: 08/08/2019
+Tickets URL: https://www.bandsintown.com/e/1014993914?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 6-----------------------------------
+Artist: The Wiggles
+Location: Tulsa
+Venue Name: Chapman Music Hall - TPAC
+Event Date: 08/10/2019
+Tickets URL: https://www.bandsintown.com/e/1014833569?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 7-----------------------------------
+Artist: The Wiggles
+Location: Grand Prairie
+Venue Name: Verizon Theatre
+Event Date: 08/11/2019
+Tickets URL: https://www.bandsintown.com/e/1015062878?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 8-----------------------------------
+Artist: The Wiggles
+Location: Austin
+Venue Name: Moody Theater - Austin TX
+Event Date: 08/12/2019
+Tickets URL: https://www.bandsintown.com/e/1015037476?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 9-----------------------------------
+Artist: The Wiggles
+Location: Cincinnati
+Venue Name: Aronoff Center-Procter & Gamble Hall
+Event Date: 08/21/2019
+Tickets URL: https://www.bandsintown.com/e/1014833313?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 10-----------------------------------
+Artist: The Wiggles
+Location: Cleveland
+Venue Name: Keybank State Theatre-Playhouse Square Center
+Event Date: 08/27/2019
+Tickets URL: https://www.bandsintown.com/e/1014856200?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Offset
+Song Name: Clout (feat. Cardi B)
+Preview Link: https://api.spotify.com/v1/tracks/59ywHNwwchG4nZJMLyxSzd
+Album: FATHER OF 4
+Release Date: 02/22/2019
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Offset
+Song Name: Legacy (feat. Travis Scott & 21 Savage)
+Preview Link: https://api.spotify.com/v1/tracks/7pMRoGLEJuFM2wl5pt0R99
+Album: FATHER OF 4
+Release Date: 02/22/2019
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Sam Smith
+Song Name: Fire On Fire - From "Watership Down"
+Preview Link: https://api.spotify.com/v1/tracks/5rFj8OzffT0iggSjcBaeND
+Album: Fire On Fire (From "Watership Down")
+Release Date: 12/21/2018
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Rihanna
+Song Name: FourFiveSeconds
+Preview Link: https://api.spotify.com/v1/tracks/78TTtXnFQPzwqlbtbwqN0y
+Album: FourFiveSeconds
+Release Date: 01/24/2015
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: The Beatles
+Song Name: Here Comes The Sun - Remastered 2009
+Preview Link: https://api.spotify.com/v1/tracks/6dGnYIeXmHdcikdzNNDMm2
+Album: Abbey Road (Remastered)
+Release Date: 09/26/1969
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Earth, Wind & Fire
+Song Name: September
+Preview Link: https://api.spotify.com/v1/tracks/7Cuk8jsPPoNYQWXK9XRFvG
+Album: September
+Release Date: 04/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Kings of Leon
+Song Name: Sex on Fire
+Preview Link: https://api.spotify.com/v1/tracks/0ntQJM78wzOLVeCUAW7Y45
+Album: Only By The Night
+Release Date: 09/23/2008
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: 2 Chainz
+Song Name: 4 AM
+Preview Link: https://api.spotify.com/v1/tracks/1nX9KhK3Fff27SnrIor2Yb
+Album: Pretty Girls Like Trap Music
+Release Date: 06/16/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Maluma
+Song Name: Felices los 4
+Preview Link: https://api.spotify.com/v1/tracks/1RouRzlg8OKFeqc6LvdxmB
+Album: F.A.M.E.
+Release Date: 05/18/2018
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: James Taylor
+Song Name: Fire and Rain
+Preview Link: https://api.spotify.com/v1/tracks/3LcYYV9ozePfgYYmXv0P3r
+Album: Sweet Baby James
+Release Date: 01/01/1970
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Offset
+Song Name: Clout (feat. Cardi B)
+Preview Link: https://api.spotify.com/v1/tracks/59ywHNwwchG4nZJMLyxSzd
+Album: FATHER OF 4
+Release Date: 02/22/2019
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Offset
+Song Name: Legacy (feat. Travis Scott & 21 Savage)
+Preview Link: https://api.spotify.com/v1/tracks/7pMRoGLEJuFM2wl5pt0R99
+Album: FATHER OF 4
+Release Date: 02/22/2019
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Sam Smith
+Song Name: Fire On Fire - From "Watership Down"
+Preview Link: https://api.spotify.com/v1/tracks/5rFj8OzffT0iggSjcBaeND
+Album: Fire On Fire (From "Watership Down")
+Release Date: 12/21/2018
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Rihanna
+Song Name: FourFiveSeconds
+Preview Link: https://api.spotify.com/v1/tracks/78TTtXnFQPzwqlbtbwqN0y
+Album: FourFiveSeconds
+Release Date: 01/24/2015
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: The Beatles
+Song Name: Here Comes The Sun - Remastered 2009
+Preview Link: https://api.spotify.com/v1/tracks/6dGnYIeXmHdcikdzNNDMm2
+Album: Abbey Road (Remastered)
+Release Date: 09/26/1969
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Earth, Wind & Fire
+Song Name: September
+Preview Link: https://api.spotify.com/v1/tracks/7Cuk8jsPPoNYQWXK9XRFvG
+Album: September
+Release Date: 04/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Kings of Leon
+Song Name: Sex on Fire
+Preview Link: https://api.spotify.com/v1/tracks/0ntQJM78wzOLVeCUAW7Y45
+Album: Only By The Night
+Release Date: 09/23/2008
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: 2 Chainz
+Song Name: 4 AM
+Preview Link: https://api.spotify.com/v1/tracks/1nX9KhK3Fff27SnrIor2Yb
+Album: Pretty Girls Like Trap Music
+Release Date: 06/16/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Maluma
+Song Name: Felices los 4
+Preview Link: https://api.spotify.com/v1/tracks/1RouRzlg8OKFeqc6LvdxmB
+Album: F.A.M.E.
+Release Date: 05/18/2018
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: James Taylor
+Song Name: Fire and Rain
+Preview Link: https://api.spotify.com/v1/tracks/3LcYYV9ozePfgYYmXv0P3r
+Album: Sweet Baby James
+Release Date: 01/01/1970
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Offset
+Song Name: Clout (feat. Cardi B)
+Preview Link: https://api.spotify.com/v1/tracks/59ywHNwwchG4nZJMLyxSzd
+Album: FATHER OF 4
+Release Date: 02/22/2019
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Offset
+Song Name: Legacy (feat. Travis Scott & 21 Savage)
+Preview Link: https://api.spotify.com/v1/tracks/7pMRoGLEJuFM2wl5pt0R99
+Album: FATHER OF 4
+Release Date: 02/22/2019
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Sam Smith
+Song Name: Fire On Fire - From "Watership Down"
+Preview Link: https://api.spotify.com/v1/tracks/5rFj8OzffT0iggSjcBaeND
+Album: Fire On Fire (From "Watership Down")
+Release Date: 12/21/2018
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Rihanna
+Song Name: FourFiveSeconds
+Preview Link: https://api.spotify.com/v1/tracks/78TTtXnFQPzwqlbtbwqN0y
+Album: FourFiveSeconds
+Release Date: 01/24/2015
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: The Beatles
+Song Name: Here Comes The Sun - Remastered 2009
+Preview Link: https://api.spotify.com/v1/tracks/6dGnYIeXmHdcikdzNNDMm2
+Album: Abbey Road (Remastered)
+Release Date: 09/26/1969
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Earth, Wind & Fire
+Song Name: September
+Preview Link: https://api.spotify.com/v1/tracks/7Cuk8jsPPoNYQWXK9XRFvG
+Album: September
+Release Date: 04/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Kings of Leon
+Song Name: Sex on Fire
+Preview Link: https://api.spotify.com/v1/tracks/0ntQJM78wzOLVeCUAW7Y45
+Album: Only By The Night
+Release Date: 09/23/2008
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: 2 Chainz
+Song Name: 4 AM
+Preview Link: https://api.spotify.com/v1/tracks/1nX9KhK3Fff27SnrIor2Yb
+Album: Pretty Girls Like Trap Music
+Release Date: 06/16/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Maluma
+Song Name: Felices los 4
+Preview Link: https://api.spotify.com/v1/tracks/1RouRzlg8OKFeqc6LvdxmB
+Album: F.A.M.E.
+Release Date: 05/18/2018
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: James Taylor
+Song Name: Fire and Rain
+Preview Link: https://api.spotify.com/v1/tracks/3LcYYV9ozePfgYYmXv0P3r
+Album: Sweet Baby James
+Release Date: 01/01/1970
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Offset
+Song Name: Clout (feat. Cardi B)
+Preview Link: https://api.spotify.com/v1/tracks/59ywHNwwchG4nZJMLyxSzd
+Album: FATHER OF 4
+Release Date: 02/22/2019
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Offset
+Song Name: Legacy (feat. Travis Scott & 21 Savage)
+Preview Link: https://api.spotify.com/v1/tracks/7pMRoGLEJuFM2wl5pt0R99
+Album: FATHER OF 4
+Release Date: 02/22/2019
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Sam Smith
+Song Name: Fire On Fire - From "Watership Down"
+Preview Link: https://api.spotify.com/v1/tracks/5rFj8OzffT0iggSjcBaeND
+Album: Fire On Fire (From "Watership Down")
+Release Date: 12/21/2018
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Rihanna
+Song Name: FourFiveSeconds
+Preview Link: https://api.spotify.com/v1/tracks/78TTtXnFQPzwqlbtbwqN0y
+Album: FourFiveSeconds
+Release Date: 01/24/2015
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: The Beatles
+Song Name: Here Comes The Sun - Remastered 2009
+Preview Link: https://api.spotify.com/v1/tracks/6dGnYIeXmHdcikdzNNDMm2
+Album: Abbey Road (Remastered)
+Release Date: 09/26/1969
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Earth, Wind & Fire
+Song Name: September
+Preview Link: https://api.spotify.com/v1/tracks/7Cuk8jsPPoNYQWXK9XRFvG
+Album: September
+Release Date: 04/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Kings of Leon
+Song Name: Sex on Fire
+Preview Link: https://api.spotify.com/v1/tracks/0ntQJM78wzOLVeCUAW7Y45
+Album: Only By The Night
+Release Date: 09/23/2008
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: 2 Chainz
+Song Name: 4 AM
+Preview Link: https://api.spotify.com/v1/tracks/1nX9KhK3Fff27SnrIor2Yb
+Album: Pretty Girls Like Trap Music
+Release Date: 06/16/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Maluma
+Song Name: Felices los 4
+Preview Link: https://api.spotify.com/v1/tracks/1RouRzlg8OKFeqc6LvdxmB
+Album: F.A.M.E.
+Release Date: 05/18/2018
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: James Taylor
+Song Name: Fire and Rain
+Preview Link: https://api.spotify.com/v1/tracks/3LcYYV9ozePfgYYmXv0P3r
+Album: Sweet Baby James
+Release Date: 01/01/1970
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+Release Date: 10/23/2001
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/47BBI51FKFwOMlIiX6m8ya
+Album: Millennium
+Release Date: 05/18/1999
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way - Reimagined
+Preview Link: https://api.spotify.com/v1/tracks/62KnDRUq6CBcT7Bqb9IHKV
+Album: I Want It That Way (Reimagined)
+Release Date: 05/17/2019
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Anthem Lights
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/3Ww6kEWxLh4Ub4WPJ9hMtA
+Album: Covers Part IV
+Release Date: 07/17/2015
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Mick Jensen
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/0ympGdYdVlZ8zo6irdjMvd
+Album: I Want It That Way
+Release Date: 11/22/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Jess and Gabriel
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/52FgeDoHydoWZbFGgxwCdH
+Album: Under the Covers, Vol. 3
+Release Date: 04/23/2019
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Tyler and Mark
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/7k52T0b1v9ktm2gJwlO5yy
+Album: Beautiful Dreams
+Release Date: 08/28/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview Link: https://api.spotify.com/v1/tracks/4vHb50VkxDzHYwLiHfWczK
+Album: Poodle Hat
+Release Date: 05/20/2003
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Dynamite Boy
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/0X5ygHsca3pJ3KErPsXhGc
+Album: Punk Goes Pop
+Release Date: 01/01/2001
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/1zCiqxhampG4dcC7HEqPu5
+Album: 90 Sweet 90s Hits!
+Release Date: 06/10/2014
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Jerry Lee Lewis
+Song Name: Great Balls Of Fire
+Preview Link: https://api.spotify.com/v1/tracks/5UvE5QlINnvEc7aFO14DVL
+Album: The Golden Rock Hits Of Jerry Lee Lewis
+Release Date: 05/13/1964
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Simple Plan
+Song Name: I'm Just a Kid
+Preview Link: https://api.spotify.com/v1/tracks/6otiaV2fagE3s8IvP6WkwG
+Album: No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)
+Release Date: 04/06/2018
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: AC/DC
+Song Name: Big Balls
+Preview Link: https://api.spotify.com/v1/tracks/2KmSnPWWCIsEomVsKnbE1a
+Album: Dirty Deeds Done Dirt Cheap
+Release Date: 09/20/1976
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Accept
+Song Name: Balls to the Wall
+Preview Link: https://api.spotify.com/v1/tracks/2dbOYFfS7r7NAzquRvji9A
+Album: Balls To The Wall
+Release Date: 01/01/1983
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Buddy Brown
+Song Name: If This Country Still Had Balls
+Preview Link: https://api.spotify.com/v1/tracks/4D73w6oPi3NbnzArt6cbp8
+Album: Keepin' it Country
+Release Date: 10/14/2014
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Simple Plan
+Song Name: Addicted
+Preview Link: https://api.spotify.com/v1/tracks/1B8MHa0NveCF1ViBEOZWO5
+Album: No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)
+Release Date: 04/06/2018
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Simple Plan
+Song Name: Perfect
+Preview Link: https://api.spotify.com/v1/tracks/4j3X4KX8rURekAVIFUhI23
+Album: No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)
+Release Date: 04/06/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Pink Guy
+Song Name: Rice Balls
+Preview Link: https://api.spotify.com/v1/tracks/7zvKFw17XyoBUx9mHiwzPy
+Album: Pink Season
+Release Date: 01/04/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Simple Plan
+Song Name: I'd Do Anything
+Preview Link: https://api.spotify.com/v1/tracks/4uVjbl6daCwjhDur7qLddu
+Album: No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)
+Release Date: 04/06/2018
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: Jerry Lee Lewis
+Song Name: Great Balls of Fire
+Preview Link: https://api.spotify.com/v1/tracks/7ugeFdykRDPMMy6XPMdIdz
+Album: Jerry Lee's Greatest
+Release Date: 01/01/1961
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Jerry Lee Lewis
+Song Name: Great Balls Of Fire
+Preview Link: https://api.spotify.com/v1/tracks/5UvE5QlINnvEc7aFO14DVL
+Album: The Golden Rock Hits Of Jerry Lee Lewis
+Release Date: 05/13/1964
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Simple Plan
+Song Name: I'm Just a Kid
+Preview Link: https://api.spotify.com/v1/tracks/6otiaV2fagE3s8IvP6WkwG
+Album: No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)
+Release Date: 04/06/2018
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: AC/DC
+Song Name: Big Balls
+Preview Link: https://api.spotify.com/v1/tracks/2KmSnPWWCIsEomVsKnbE1a
+Album: Dirty Deeds Done Dirt Cheap
+Release Date: 09/20/1976
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Accept
+Song Name: Balls to the Wall
+Preview Link: https://api.spotify.com/v1/tracks/2dbOYFfS7r7NAzquRvji9A
+Album: Balls To The Wall
+Release Date: 01/01/1983
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Buddy Brown
+Song Name: If This Country Still Had Balls
+Preview Link: https://api.spotify.com/v1/tracks/4D73w6oPi3NbnzArt6cbp8
+Album: Keepin' it Country
+Release Date: 10/14/2014
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Simple Plan
+Song Name: Addicted
+Preview Link: https://api.spotify.com/v1/tracks/1B8MHa0NveCF1ViBEOZWO5
+Album: No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)
+Release Date: 04/06/2018
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Simple Plan
+Song Name: Perfect
+Preview Link: https://api.spotify.com/v1/tracks/4j3X4KX8rURekAVIFUhI23
+Album: No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)
+Release Date: 04/06/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Pink Guy
+Song Name: Rice Balls
+Preview Link: https://api.spotify.com/v1/tracks/7zvKFw17XyoBUx9mHiwzPy
+Album: Pink Season
+Release Date: 01/04/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Simple Plan
+Song Name: I'd Do Anything
+Preview Link: https://api.spotify.com/v1/tracks/4uVjbl6daCwjhDur7qLddu
+Album: No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)
+Release Date: 04/06/2018
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: Jerry Lee Lewis
+Song Name: Great Balls of Fire
+Preview Link: https://api.spotify.com/v1/tracks/7ugeFdykRDPMMy6XPMdIdz
+Album: Jerry Lee's Greatest
+Release Date: 01/01/1961
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Jerry Lee Lewis
+Song Name: Great Balls Of Fire
+Preview Link: https://api.spotify.com/v1/tracks/5UvE5QlINnvEc7aFO14DVL
+Album: The Golden Rock Hits Of Jerry Lee Lewis
+Release Date: 05/13/1964
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Simple Plan
+Song Name: I'm Just a Kid
+Preview Link: https://api.spotify.com/v1/tracks/6otiaV2fagE3s8IvP6WkwG
+Album: No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)
+Release Date: 04/06/2018
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: AC/DC
+Song Name: Big Balls
+Preview Link: https://api.spotify.com/v1/tracks/2KmSnPWWCIsEomVsKnbE1a
+Album: Dirty Deeds Done Dirt Cheap
+Release Date: 09/20/1976
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Accept
+Song Name: Balls to the Wall
+Preview Link: https://api.spotify.com/v1/tracks/2dbOYFfS7r7NAzquRvji9A
+Album: Balls To The Wall
+Release Date: 01/01/1983
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Buddy Brown
+Song Name: If This Country Still Had Balls
+Preview Link: https://api.spotify.com/v1/tracks/4D73w6oPi3NbnzArt6cbp8
+Album: Keepin' it Country
+Release Date: 10/14/2014
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Simple Plan
+Song Name: Addicted
+Preview Link: https://api.spotify.com/v1/tracks/1B8MHa0NveCF1ViBEOZWO5
+Album: No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)
+Release Date: 04/06/2018
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Simple Plan
+Song Name: Perfect
+Preview Link: https://api.spotify.com/v1/tracks/4j3X4KX8rURekAVIFUhI23
+Album: No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)
+Release Date: 04/06/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Pink Guy
+Song Name: Rice Balls
+Preview Link: https://api.spotify.com/v1/tracks/7zvKFw17XyoBUx9mHiwzPy
+Album: Pink Season
+Release Date: 01/04/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Simple Plan
+Song Name: I'd Do Anything
+Preview Link: https://api.spotify.com/v1/tracks/4uVjbl6daCwjhDur7qLddu
+Album: No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)
+Release Date: 04/06/2018
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: Jerry Lee Lewis
+Song Name: Great Balls of Fire
+Preview Link: https://api.spotify.com/v1/tracks/7ugeFdykRDPMMy6XPMdIdz
+Album: Jerry Lee's Greatest
+Release Date: 01/01/1961
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+----------------------------------------------------------------------
