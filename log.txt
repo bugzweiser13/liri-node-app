@@ -6183,3 +6183,167 @@ Preview Link: https://api.spotify.com/v1/tracks/1KlZT1omFpW2pd7k8Z6vth
 Album: South Of Heaven
 Release Date: 01/01/1988
 ----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: LANY
+Song Name: Dumb Stuff
+Preview Link: https://api.spotify.com/v1/tracks/4Q3d0fDDg6l9sqlAMVumgJ
+Album: LANY
+Release Date: 06/30/2017
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Tower Of Power
+Song Name: Funk The Dumb Stuff
+Preview Link: https://api.spotify.com/v1/tracks/5dhfzjACfN1fJUD4PPSFV5
+Album: Soul With A Capital "S" - The Best Of Tower Of Power
+Release Date: 01/01/2002
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Tower Of Power
+Song Name: Funk The Dumb Stuff
+Preview Link: https://api.spotify.com/v1/tracks/6bAWBZSQMqNiYvZ3G9RFFF
+Album: Monster On A Leash
+Release Date: 05/21/1991
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Matt Decaro
+Song Name: Fun Stuff Dumb Stuff
+Preview Link: https://api.spotify.com/v1/tracks/4B75FtvbpvAUla0YB7YEZB
+Album: Set Em Up Knock Em Down
+Release Date: 06/22/2018
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Bizrq
+Song Name: The Natural
+Preview Link: https://api.spotify.com/v1/tracks/0BUQfujnDX1XnT88vPoIzW
+Album: The Dumb Stuff Is Easy
+Release Date: 09/23/2013
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Paula Reilly
+Song Name: Dumb Stuff
+Preview Link: https://api.spotify.com/v1/tracks/0yRUrSfYbfPfHYmFS5gwHq
+Album: Odd Mix Head
+Release Date: 09/23/2013
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Violent Ribbon
+Song Name: Dumb Stuff
+Preview Link: https://api.spotify.com/v1/tracks/6DtzDnLhvFjjxnVqOov9sX
+Album: Inspector Max
+Release Date: 06/21/2017
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: 215
+Song Name: Dumb Stuff
+Preview Link: https://api.spotify.com/v1/tracks/2yFmskdXKBSHQLc0i6MK6x
+Album: Dumb Stuff
+Release Date: 03/27/2019
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Jake Dewar, Comedian-Tragedian
+Song Name: Dumb Stuff
+Preview Link: https://api.spotify.com/v1/tracks/4ZDGplrEXUMkKI3J6EgsBd
+Album: Responsibly Stupid
+Release Date: 10/26/2018
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: Jake Dewar, Comedian-Tragedian
+Song Name: More Dumb Stuff
+Preview Link: https://api.spotify.com/v1/tracks/018xypA4f85B1j9LNPGzKn
+Album: Responsibly Stupid
+Release Date: 10/26/2018
+----------------------------------------------------------------------
+
+
+Concert Search Info
+
+-------------------------------Event: 1-----------------------------------
+Artist: LANY
+Location: Anaheim
+Venue Name: House Of Blues
+Event Date: 06/25/2019
+Tickets URL: https://www.bandsintown.com/e/100506803?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 2-----------------------------------
+Artist: LANY
+Location: Los Angeles
+Venue Name: Greek Theatre
+Event Date: 06/27/2019
+Tickets URL: https://www.bandsintown.com/e/100506809?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 3-----------------------------------
+Artist: LANY
+Location: Los Angeles
+Venue Name: Shrine Auditorium and Expo Hall
+Event Date: 06/28/2019
+Tickets URL: https://www.bandsintown.com/e/100927775?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 4-----------------------------------
+Artist: LANY
+Location: Brisbane City
+Venue Name: 256 Wickham
+Event Date: 07/13/2019
+Tickets URL: https://www.bandsintown.com/e/100506818?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 5-----------------------------------
+Artist: LANY
+Location: Newtown
+Venue Name: Enmore Theatre
+Event Date: 07/14/2019
+Tickets URL: https://www.bandsintown.com/e/100506825?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 6-----------------------------------
+Artist: LANY
+Location: Broadway, Sydney
+Venue Name: The Enmore Theatre
+Event Date: 07/15/2019
+Tickets URL: https://www.bandsintown.com/e/100906784?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 7-----------------------------------
+Artist: LANY
+Location: Auckland
+Venue Name: Powerstation
+Event Date: 07/17/2019
+Tickets URL: https://www.bandsintown.com/e/100506937?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 8-----------------------------------
+Artist: LANY
+Location: Melbourne
+Venue Name: Margaret Court Arena
+Event Date: 07/19/2019
+Tickets URL: https://www.bandsintown.com/e/100506950?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 9-----------------------------------
+Artist: LANY
+Location: Hindmarsh
+Venue Name: The Gov
+Event Date: 07/20/2019
+Tickets URL: https://www.bandsintown.com/e/100506965?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 10-----------------------------------
+Artist: LANY
+Location: Mount Lawley
+Venue Name: The Astor Theatre
+Event Date: 07/21/2019
+Tickets URL: https://www.bandsintown.com/e/100506976?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+
+
+OMDB Search Info
+
+
+---------------------------Info-------------------------------
+Movie Title: Divergent
+Release Date: 03/21/2014
+IMDB Rating: 6.7
+Rotton Tomatoes Rating: 42%
+Country Produced: USA
+Language: English, Spanish
+Plot: In a world divided by factions based on virtues, Tris learns she's Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.
+Actors: Shailene Woodley, Theo James, Ashley Judd, Jai Courtney
+--------------------------------------------------------------
