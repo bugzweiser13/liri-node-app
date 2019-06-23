@@ -54,4 +54,5 @@ If ***(movie-name)*** is left blank, the search will default to a statement "Go 
 
 Will perform the spotify song search for the title "I Want it That Way" from infomation within the random.txt file
 
-    -entries within the random.txt file need to be seporated by a "," and entered in the following format "***(search-command) , (search-criteria)***
+    -entries within the random.txt file need to be seporated by a "," 
+    -need to be entered in the following format <search-command>,<"search-criteria">
