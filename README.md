@@ -59,5 +59,6 @@ Will perform the spotify song search for the title "I Want it That Way" from inf
 
     -entries within the random.txt file need to be seporated by a "," 
     -need to be entered in the following format <search-command>,<"search-criteria">
+    -only one entry within the .txt file operational at this time
 
 ***See opertional videos (title by each search) for demonstration.***

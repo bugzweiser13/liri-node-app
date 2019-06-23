@@ -3643,11 +3643,6 @@ Release Date: 11/02/2010
 ----------------------------------------------------------------------
 
 
-Spotify Search Info
-
-
-
-
 Concert Search Info
 
 
@@ -5651,6 +5646,81 @@ Song Name: Teenage Fantasy
 Preview Link: https://api.spotify.com/v1/tracks/0fIFjeeLJjIBliWUCsxyMF
 Album: Lost & Found
 Release Date: 06/08/2018
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+Release Date: 10/23/2001
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/47BBI51FKFwOMlIiX6m8ya
+Album: Millennium
+Release Date: 05/18/1999
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way - Reimagined
+Preview Link: https://api.spotify.com/v1/tracks/62KnDRUq6CBcT7Bqb9IHKV
+Album: I Want It That Way (Reimagined)
+Release Date: 05/17/2019
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Anthem Lights
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/3Ww6kEWxLh4Ub4WPJ9hMtA
+Album: Covers Part IV
+Release Date: 07/17/2015
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Mick Jensen
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/0ympGdYdVlZ8zo6irdjMvd
+Album: I Want It That Way
+Release Date: 11/22/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Jess and Gabriel
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/52FgeDoHydoWZbFGgxwCdH
+Album: Under the Covers, Vol. 3
+Release Date: 04/23/2019
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Tyler and Mark
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/7k52T0b1v9ktm2gJwlO5yy
+Album: Beautiful Dreams
+Release Date: 08/28/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview Link: https://api.spotify.com/v1/tracks/4vHb50VkxDzHYwLiHfWczK
+Album: Poodle Hat
+Release Date: 05/20/2003
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Dynamite Boy
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/0X5ygHsca3pJ3KErPsXhGc
+Album: Punk Goes Pop
+Release Date: 01/01/2001
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/1zCiqxhampG4dcC7HEqPu5
+Album: 90 Sweet 90s Hits!
+Release Date: 06/10/2014
 ----------------------------------------------------------------------
 
 

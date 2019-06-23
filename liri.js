@@ -27,9 +27,6 @@ function UserInputs(searchRequest, input) {
             concertSearch(input, searchLimit);
             break;
         case 'spotify-this-song':
-            //debubbing do-what-it-says
-            // console.log("UserInput Function: " + searchRequest);
-            // console.log("UserInput Function: " + input);
             spotifySearch(input, searchLimit);
             break;
         case 'movie-this':
@@ -43,7 +40,7 @@ function UserInputs(searchRequest, input) {
     }
 }
 
-// Bands in Town Artist Events API
+// Bands in Town Artist Events API search
 function concertSearch() {
 
     if (searchRequest === "concert-this") {
@@ -54,7 +51,7 @@ function concertSearch() {
         fs.appendFileSync("log.txt", "Concert Search Info\n"); //append to log.txt file
         fs.appendFileSync("log.txt", "\n"); //append to log.txt file
 
-        console.log("Within Function: " + input);
+        // console.log("Within Function: " + input);
 
         var bandsUrl = "https://rest.bandsintown.com/artists/" + input + "/events?app_id=codingbootcamp";
 
@@ -96,7 +93,7 @@ function concertSearch() {
     return false;
 };
 
-//spotify API
+//spotify API search
 function spotifySearch() {
 
     if (searchRequest === "spotify-this-song") {
@@ -107,11 +104,6 @@ function spotifySearch() {
         fs.appendFileSync("log.txt", "Spotify Search Info\n"); //append to log.txt file
         fs.appendFileSync("log.txt", "\n"); //append to log.txt file
         fs.appendFileSync("log.txt", "\n"); //append to log.txt file
-
-        //debugging do-what-it-says
-        // console.log("This Function Ran");
-        // console.log("Within Function Search: " + searchRequest);
-        // console.log("Within Function Input: " + input);
 
         if (input === undefined) {
             input = "macarena"; //default search if none selected
@@ -153,10 +145,9 @@ function spotifySearch() {
             }
         });
     }
-
 };
 
-// omdb API
+// omdb API search
 function omdbSearch() {
     if (searchRequest === "movie-this") {
         console.log("You Asked For A Movie");
@@ -216,7 +207,7 @@ function omdbSearch() {
     }
 };
 
-// text file spotify search
+// random.txt file spotify search
 function txtShowSearch() {
 
     console.log("Reading From the Text File");
