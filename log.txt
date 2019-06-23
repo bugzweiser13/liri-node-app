@@ -5797,3 +5797,389 @@ Preview Link: https://api.spotify.com/v1/tracks/1zCiqxhampG4dcC7HEqPu5
 Album: 90 Sweet 90s Hits!
 Release Date: 06/10/2014
 ----------------------------------------------------------------------
+
+
+Concert Search Info
+
+-------------------------------Event: 1-----------------------------------
+Artist: Slayer
+Location: Saint-hilaire-de-clisson
+Venue Name: Hellfest
+Event Date: 06/23/2019
+Tickets URL: https://www.bandsintown.com/e/100496115?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 2-----------------------------------
+Artist: Slayer
+Location: Praha
+Venue Name: Tipsport Arena
+Event Date: 06/25/2019
+Tickets URL: https://www.bandsintown.com/e/100562738?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 3-----------------------------------
+Artist: Slayer
+Location: Oslo
+Venue Name: Tons Of Rock
+Event Date: 06/28/2019
+Tickets URL: https://www.bandsintown.com/e/100588841?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 4-----------------------------------
+Artist: Slayer
+Location: Helsinki
+Venue Name: Tuska Open Air
+Event Date: 06/29/2019
+Tickets URL: https://www.bandsintown.com/e/100588843?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 5-----------------------------------
+Artist: Slayer
+Location: Viveiro
+Venue Name: Resurrection Fest
+Event Date: 07/04/2019
+Tickets URL: https://www.bandsintown.com/e/100537062?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 6-----------------------------------
+Artist: Slayer
+Location: Lisbon
+Venue Name: Heavy Rock Festival Stadium Restelo
+Event Date: 07/05/2019
+Tickets URL: https://www.bandsintown.com/e/100562749?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 7-----------------------------------
+Artist: Slayer
+Location: Vérone
+Venue Name: Rock the Castle
+Event Date: 07/07/2019
+Tickets URL: https://www.bandsintown.com/e/100562746?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 8-----------------------------------
+Artist: Slayer
+Location: Bucharest
+Venue Name: Arenele Romane
+Event Date: 07/10/2019
+Tickets URL: https://www.bandsintown.com/e/100588848?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 9-----------------------------------
+Artist: Slayer
+Location: Sofia
+Venue Name: Sofia Airport Park
+Event Date: 07/11/2019
+Tickets URL: https://www.bandsintown.com/e/100588850?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 10-----------------------------------
+Artist: Slayer
+Location: Athens
+Venue Name: AthensRocks Apostolos Nikolaidis Stadium
+Event Date: 07/13/2019
+Tickets URL: https://www.bandsintown.com/e/100625902?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 11-----------------------------------
+Artist: Slayer
+Location: Edmonton
+Venue Name: CHAOS AB
+Event Date: 07/26/2019
+Tickets URL: https://www.bandsintown.com/e/101013813?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 12-----------------------------------
+Artist: Slayer
+Location: Montreal
+Venue Name: Heavy Montreal (Weekend of July 27-28)
+Event Date: 07/28/2019
+Tickets URL: https://www.bandsintown.com/e/100820518?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 13-----------------------------------
+Artist: Slayer
+Location: Wacken
+Venue Name: Wacken Open Air
+Event Date: 08/02/2019
+Tickets URL: https://www.bandsintown.com/e/100633518?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 14-----------------------------------
+Artist: Slayer
+Location: Stuttgart
+Venue Name: Hanns-Martin-Schleyer-Halle
+Event Date: 08/03/2019
+Tickets URL: https://www.bandsintown.com/e/100536862?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 15-----------------------------------
+Artist: Slayer
+Location: Chicago
+Venue Name: Riot Fest (Weekend of 9/13-15) - Chicago, IL
+Event Date: 09/13/2019
+Tickets URL: https://www.bandsintown.com/e/101228100?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 16-----------------------------------
+Artist: Slayer
+Location: Quito
+Venue Name: Coliseo General Rumiñahui
+Event Date: 09/27/2019
+Tickets URL: https://www.bandsintown.com/e/101267319?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 17-----------------------------------
+Artist: Slayer
+Location: Buenos Aires City
+Venue Name: Luna Park
+Event Date: 09/29/2019
+Tickets URL: https://www.bandsintown.com/e/101244441?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 18-----------------------------------
+Artist: Slayer
+Location: São Paulo
+Venue Name: Espaço das Américas
+Event Date: 10/02/2019
+Tickets URL: https://www.bandsintown.com/e/101244439?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 19-----------------------------------
+Artist: Slayer
+Location: Rio De Janeiro
+Venue Name: Rock In Rio
+Event Date: 10/04/2019
+Tickets URL: https://www.bandsintown.com/e/100582203?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 20-----------------------------------
+Artist: Slayer
+Location: Santiago
+Venue Name: Gets Louder Festival
+Event Date: 10/06/2019
+Tickets URL: https://www.bandsintown.com/e/101231228?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 21-----------------------------------
+Artist: Slayer
+Location: Manchester
+Venue Name: Great Stage Park - Exit 111 Festival
+Event Date: 10/11/2019
+Tickets URL: https://www.bandsintown.com/e/101089693?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Fuerza Regida
+Song Name: Radicamos En South Central
+Preview Link: https://api.spotify.com/v1/tracks/1kHpljP6paUsQyZgwFDfxn
+Album: Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.3
+Release Date: 07/04/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Josh Turner
+Song Name: Hometown Girl
+Preview Link: https://api.spotify.com/v1/tracks/5C6uh95eAL0RBTSGXKQwvk
+Album: Deep South
+Release Date: 03/10/2017
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Alabama
+Song Name: Song of the South
+Preview Link: https://api.spotify.com/v1/tracks/2uX5f3x2cObov0iDAPln4o
+Album: Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection
+Release Date: 01/01/1980
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: The Allman Brothers Band
+Song Name: Midnight Rider
+Preview Link: https://api.spotify.com/v1/tracks/1hHGUdFaiJHw9hVZGJWYO2
+Album: Idlewild South (Deluxe Edition Remastered)
+Release Date: 09/18/1970
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Hippo Campus
+Song Name: South
+Preview Link: https://api.spotify.com/v1/tracks/64TjzuxG5PJ7payjphrOC0
+Album: South - Single
+Release Date: 08/03/2015
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Lil' Troy
+Song Name: Wanna Be A Baller
+Preview Link: https://api.spotify.com/v1/tracks/6lEIjrQNwJPecJ7mMXjhjo
+Album: Sittin' Fat Down South
+Release Date: 01/01/1998
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Upchurch
+Song Name: Dirty South
+Preview Link: https://api.spotify.com/v1/tracks/2APxijdVoN8AIrS1AuCMAT
+Album: Creeker
+Release Date: 02/12/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Vicetone
+Song Name: South Beach
+Preview Link: https://api.spotify.com/v1/tracks/4GQVsXO7jkxg43UmAd1Tbb
+Album: South Beach
+Release Date: 10/12/2018
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Fuerza Regida
+Song Name: Radicamos En South Central
+Preview Link: https://api.spotify.com/v1/tracks/5ZlhwByCK9RSmTLacMJlaD
+Album: En Vivo Puros Corridos
+Release Date: 07/20/2018
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: Upchurch
+Song Name: Son of the South
+Preview Link: https://api.spotify.com/v1/tracks/5PIt7FaU4iHzVmwYYFCnVp
+Album: Son of the South
+Release Date: 04/21/2017
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Slayer
+Song Name: South Of Heaven
+Preview Link: https://api.spotify.com/v1/tracks/1f2nJKg780VxYIveVq6Xej
+Album: South Of Heaven
+Release Date: 01/01/1988
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Slayer
+Song Name: South Of Heaven
+Preview Link: https://api.spotify.com/v1/tracks/3U9gogDStAfWxSm91PJuxb
+Album: South Of Heaven
+Release Date: 01/01/1988
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Blake Shelton
+Song Name: Just South of Heaven
+Preview Link: https://api.spotify.com/v1/tracks/4YnjiMGmYAOnJlc0TmwYKt
+Album: BRINGING BACK THE SUNSHINE
+Release Date: 09/30/2014
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Slayer
+Song Name: Mandatory Suicide
+Preview Link: https://api.spotify.com/v1/tracks/54hjFPLAWMurvAqlh0fifV
+Album: South Of Heaven
+Release Date: 01/01/1988
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Slayer
+Song Name: Behind The Crooked Cross
+Preview Link: https://api.spotify.com/v1/tracks/2RnWnqnMqBuFosND1hbGjk
+Album: South Of Heaven
+Release Date: 01/01/1988
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Slayer
+Song Name: Silent Scream
+Preview Link: https://api.spotify.com/v1/tracks/6FUdzKbBoIzJRNzitq4qqE
+Album: South Of Heaven
+Release Date: 01/01/1988
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Slayer
+Song Name: Ghosts Of War
+Preview Link: https://api.spotify.com/v1/tracks/65xpIwIluxmO6PBW7c7aqw
+Album: South Of Heaven
+Release Date: 01/01/1988
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Slayer
+Song Name: Mandatory Suicide
+Preview Link: https://api.spotify.com/v1/tracks/2KPcujYDaukvtfRR0Zmu0O
+Album: South Of Heaven
+Release Date: 01/01/1988
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Slayer
+Song Name: Live Undead
+Preview Link: https://api.spotify.com/v1/tracks/6DFDTqHD5VGqsFeTGKag2u
+Album: South Of Heaven
+Release Date: 01/01/1988
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: Slayer
+Song Name: Spill The Blood
+Preview Link: https://api.spotify.com/v1/tracks/1KlZT1omFpW2pd7k8Z6vth
+Album: South Of Heaven
+Release Date: 01/01/1988
+----------------------------------------------------------------------
