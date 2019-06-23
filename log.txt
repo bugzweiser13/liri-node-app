@@ -2023,3 +2023,78 @@ Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
 Album: Kids Dance Party
 Release Date: 01/01/2006
 ----------------------------------------------------------------------
+
+
+Concert Search Info
+
+
+-------------------------------Event: 1-----------------------------------
+Artist: Slayer
+Location: Saint-hilaire-de-clisson
+Venue Name: Hellfest
+Event Date: 06/23/2019
+Tickets URL: https://www.bandsintown.com/e/100496115?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 2-----------------------------------
+Artist: Slayer
+Location: Praha
+Venue Name: Tipsport Arena
+Event Date: 06/25/2019
+Tickets URL: https://www.bandsintown.com/e/100562738?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 3-----------------------------------
+Artist: Slayer
+Location: Oslo
+Venue Name: Tons Of Rock
+Event Date: 06/28/2019
+Tickets URL: https://www.bandsintown.com/e/100588841?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 4-----------------------------------
+Artist: Slayer
+Location: Helsinki
+Venue Name: Tuska Open Air
+Event Date: 06/29/2019
+Tickets URL: https://www.bandsintown.com/e/100588843?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 5-----------------------------------
+Artist: Slayer
+Location: Viveiro
+Venue Name: Resurrection Fest
+Event Date: 07/04/2019
+Tickets URL: https://www.bandsintown.com/e/100537062?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 6-----------------------------------
+Artist: Slayer
+Location: Lisbon
+Venue Name: Heavy Rock Festival Stadium Restelo
+Event Date: 07/05/2019
+Tickets URL: https://www.bandsintown.com/e/100562749?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 7-----------------------------------
+Artist: Slayer
+Location: Vérone
+Venue Name: Rock the Castle
+Event Date: 07/07/2019
+Tickets URL: https://www.bandsintown.com/e/100562746?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 8-----------------------------------
+Artist: Slayer
+Location: Bucharest
+Venue Name: Arenele Romane
+Event Date: 07/10/2019
+Tickets URL: https://www.bandsintown.com/e/100588848?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 9-----------------------------------
+Artist: Slayer
+Location: Sofia
+Venue Name: Sofia Airport Park
+Event Date: 07/11/2019
+Tickets URL: https://www.bandsintown.com/e/100588850?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 10-----------------------------------
+Artist: Slayer
+Location: Athens
+Venue Name: AthensRocks Apostolos Nikolaidis Stadium
+Event Date: 07/13/2019
+Tickets URL: https://www.bandsintown.com/e/100625902?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
