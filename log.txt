@@ -2098,3 +2098,881 @@ Venue Name: AthensRocks Apostolos Nikolaidis Stadium
 Event Date: 07/13/2019
 Tickets URL: https://www.bandsintown.com/e/100625902?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
 ---------------------------------------------------------------------------
+
+
+OMDB Search Info
+
+
+---------------------------Info-------------------------------
+Movie Title: Rambo
+Release Date: 01/25/2008
+IMDB Rating: 7.0
+Rotton Tomatoes Rating: 37%
+Country Produced: Germany, USA
+Language: English, Burmese, Thai
+Plot: In Thailand, John Rambo joins a group of mercenaries to venture into war-torn Burma, and rescue a group of Christian aid workers who were kidnapped by the ruthless local infantry unit.
+Actors: Sylvester Stallone, Julie Benz, Matthew Marsden, Graham McTavish
+--------------------------------------------------------------
+
+
+Concert Search Info
+
+
+-------------------------------Event: 1-----------------------------------
+Artist: Metallica
+Location: Berlin
+Venue Name: Olympiastadion
+Event Date: 07/06/2019
+Tickets URL: https://www.bandsintown.com/e/1011905605?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 2-----------------------------------
+Artist: Metallica,Platinum
+Location: Göteborg
+Venue Name: Ullevi Restaurant & Conference
+Event Date: 07/09/2019
+Tickets URL: https://www.bandsintown.com/e/1011903922?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 3-----------------------------------
+Artist: Metallica,GHOST,Bokassa
+Location: Copenhagen
+Venue Name: Telia Parken
+Event Date: 07/11/2019
+Tickets URL: https://www.bandsintown.com/e/1011905167?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 4-----------------------------------
+Artist: Metallica
+Location: Trondheim
+Venue Name: Granasen Arena
+Event Date: 07/13/2019
+Tickets URL: https://www.bandsintown.com/e/1011905547?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 5-----------------------------------
+Artist: Metallica
+Location: Hameenlinna
+Venue Name: KANTOLAN TAPAHTUMAPUISTO
+Event Date: 07/16/2019
+Tickets URL: https://www.bandsintown.com/e/1011906245?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 6-----------------------------------
+Artist: Metallica
+Location: Tartu
+Venue Name: Raadi lennuväli
+Event Date: 07/17/2019
+Tickets URL: https://www.bandsintown.com/e/1015726038?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 7-----------------------------------
+Artist: Metallica
+Location: Tartu
+Venue Name: Raadi lennuväli
+Event Date: 07/18/2019
+Tickets URL: https://www.bandsintown.com/e/1011902677?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 8-----------------------------------
+Artist: Metallica
+Location: Moscow
+Venue Name: The Luzhniki Stadium
+Event Date: 07/21/2019
+Tickets URL: https://www.bandsintown.com/e/1012029510?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 9-----------------------------------
+Artist: Metallica
+Location: Bucharest
+Venue Name: National Stadion Bukarest
+Event Date: 08/14/2019
+Tickets URL: https://www.bandsintown.com/e/1011939103?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 10-----------------------------------
+Artist: Metallica
+Location: Wien
+Venue Name: Ernst-Happel-Stadion
+Event Date: 08/16/2019
+Tickets URL: https://www.bandsintown.com/e/1011901158?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Slayer
+Song Name: Raining Blood
+Preview Link: https://api.spotify.com/v1/tracks/01Mpj13vURSO3cCLprPt5T
+Album: Reign In Blood
+Release Date: 01/01/1986
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Thy Art Is Murder
+Song Name: Reign Of Darkness
+Preview Link: https://api.spotify.com/v1/tracks/398Mve6JY33JOHVvVlqxCa
+Album: Hate
+Release Date: 01/01/2012
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Slayer
+Song Name: Angel Of Death
+Preview Link: https://api.spotify.com/v1/tracks/61dTqhd46yMkSWmC5LAh5F
+Album: Reign In Blood
+Release Date: 01/01/1986
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: OB OBrien
+Song Name: Schemin Up (feat. Drake and P. Reign)
+Preview Link: https://api.spotify.com/v1/tracks/63M8PK8yavNITSViKUB62p
+Album: Schemin Up (feat. Drake and P. Reign)
+Release Date: 12/15/2014
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: $uicideBoy$
+Song Name: Reign In Blood
+Preview Link: https://api.spotify.com/v1/tracks/23WXRgbppbqQyfeMC8Q5mE
+Album: My Liver Will Handle What My Heart Can't
+Release Date: 09/21/2015
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Hillsong Worship
+Song Name: Forever Reign - Live
+Preview Link: https://api.spotify.com/v1/tracks/3Z3mh8aMW1vGBhsSkKT8yR
+Album: A Beautiful Exchange
+Release Date: 06/29/2010
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Hillsong UNITED
+Song Name: Rain / Reign
+Preview Link: https://api.spotify.com/v1/tracks/2pYthXNB2BrOeqtd5bwPym
+Album: Wonder
+Release Date: 06/09/2017
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Ramin Djawadi
+Song Name: Reign
+Preview Link: https://api.spotify.com/v1/tracks/4G2QBUTKjSNn4JRuShT7lB
+Album: Game Of Thrones: Season 6 (Music from the HBO Series)
+Release Date: 06/24/2016
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Avenged Sevenfold
+Song Name: Carry On
+Preview Link: https://api.spotify.com/v1/tracks/3fudNa8fr0Hk1cgKvz2FtZ
+Album: Black Reign
+Release Date: 09/21/2018
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: Hillsong UNITED
+Song Name: Forever Reign - Live
+Preview Link: https://api.spotify.com/v1/tracks/1g1nrHQqZqbODkv8LRoged
+Album: Hillsong – Let Hope Rise (Live/Original Motion Picture Soundtrack)
+Release Date: 08/12/2016
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+----------------------------------------------------------------------
+
+
+Concert Search Info
+
+
+-------------------------------Event: 1-----------------------------------
+Artist: Slayer
+Location: Saint-hilaire-de-clisson
+Venue Name: Hellfest
+Event Date: 06/23/2019
+Tickets URL: https://www.bandsintown.com/e/100496115?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 2-----------------------------------
+Artist: Slayer
+Location: Praha
+Venue Name: Tipsport Arena
+Event Date: 06/25/2019
+Tickets URL: https://www.bandsintown.com/e/100562738?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 3-----------------------------------
+Artist: Slayer
+Location: Oslo
+Venue Name: Tons Of Rock
+Event Date: 06/28/2019
+Tickets URL: https://www.bandsintown.com/e/100588841?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 4-----------------------------------
+Artist: Slayer
+Location: Helsinki
+Venue Name: Tuska Open Air
+Event Date: 06/29/2019
+Tickets URL: https://www.bandsintown.com/e/100588843?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 5-----------------------------------
+Artist: Slayer
+Location: Viveiro
+Venue Name: Resurrection Fest
+Event Date: 07/04/2019
+Tickets URL: https://www.bandsintown.com/e/100537062?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 6-----------------------------------
+Artist: Slayer
+Location: Lisbon
+Venue Name: Heavy Rock Festival Stadium Restelo
+Event Date: 07/05/2019
+Tickets URL: https://www.bandsintown.com/e/100562749?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 7-----------------------------------
+Artist: Slayer
+Location: Vérone
+Venue Name: Rock the Castle
+Event Date: 07/07/2019
+Tickets URL: https://www.bandsintown.com/e/100562746?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 8-----------------------------------
+Artist: Slayer
+Location: Bucharest
+Venue Name: Arenele Romane
+Event Date: 07/10/2019
+Tickets URL: https://www.bandsintown.com/e/100588848?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 9-----------------------------------
+Artist: Slayer
+Location: Sofia
+Venue Name: Sofia Airport Park
+Event Date: 07/11/2019
+Tickets URL: https://www.bandsintown.com/e/100588850?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 10-----------------------------------
+Artist: Slayer
+Location: Athens
+Venue Name: AthensRocks Apostolos Nikolaidis Stadium
+Event Date: 07/13/2019
+Tickets URL: https://www.bandsintown.com/e/100625902?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+
+
+Concert Search Info
+
+
+-------------------------------Event: 1-----------------------------------
+Artist: The Wiggles
+Location: Portland
+Venue Name: Aladdin Theater
+Event Date: 07/28/2019
+Tickets URL: https://www.bandsintown.com/e/1014702335?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 2-----------------------------------
+Artist: The Wiggles
+Location: San Francisco
+Venue Name: August Hall
+Event Date: 08/01/2019
+Tickets URL: https://www.bandsintown.com/e/1014828758?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 3-----------------------------------
+Artist: The Wiggles
+Location: Anaheim
+Venue Name: City National Grove Of Anaheim
+Event Date: 08/02/2019
+Tickets URL: https://www.bandsintown.com/e/1014994497?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 4-----------------------------------
+Artist: The Wiggles
+Location: Phoenix
+Venue Name: Orpheum Theatre Phoenix
+Event Date: 08/05/2019
+Tickets URL: https://www.bandsintown.com/e/1015062562?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 5-----------------------------------
+Artist: The Wiggles
+Location: Pueblo
+Venue Name: Pueblo Memorial Hall
+Event Date: 08/08/2019
+Tickets URL: https://www.bandsintown.com/e/1014993914?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 6-----------------------------------
+Artist: The Wiggles
+Location: Tulsa
+Venue Name: Chapman Music Hall - TPAC
+Event Date: 08/10/2019
+Tickets URL: https://www.bandsintown.com/e/1014833569?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 7-----------------------------------
+Artist: The Wiggles
+Location: Grand Prairie
+Venue Name: Verizon Theatre
+Event Date: 08/11/2019
+Tickets URL: https://www.bandsintown.com/e/1015062878?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 8-----------------------------------
+Artist: The Wiggles
+Location: Austin
+Venue Name: Moody Theater - Austin TX
+Event Date: 08/12/2019
+Tickets URL: https://www.bandsintown.com/e/1015037476?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 9-----------------------------------
+Artist: The Wiggles
+Location: Cincinnati
+Venue Name: Aronoff Center-Procter & Gamble Hall
+Event Date: 08/21/2019
+Tickets URL: https://www.bandsintown.com/e/1014833313?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+-------------------------------Event: 10-----------------------------------
+Artist: The Wiggles
+Location: Cleveland
+Venue Name: Keybank State Theatre-Playhouse Square Center
+Event Date: 08/27/2019
+Tickets URL: https://www.bandsintown.com/e/1014856200?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+---------------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Slayer
+Song Name: Raining Blood
+Preview Link: https://api.spotify.com/v1/tracks/01Mpj13vURSO3cCLprPt5T
+Album: Reign In Blood
+Release Date: 01/01/1986
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: The Weather Girls
+Song Name: It's Raining Men
+Preview Link: https://api.spotify.com/v1/tracks/4caiYv89C9GZdDD1RzshWd
+Album: Dance Hits - 80s & 90s
+Release Date: 04/29/2008
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Sky Fall SF
+Song Name: Rain Sounds: Raining
+Preview Link: https://api.spotify.com/v1/tracks/03E06FTE8LrhTfdOfDBb2q
+Album: Rain
+Release Date: 05/05/2017
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Parry Gripp
+Song Name: Raining Tacos
+Preview Link: https://api.spotify.com/v1/tracks/2tgKCgRqFbXdmo6ETTxLsb
+Album: Raining Tacos
+Release Date: 06/29/2012
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Lance Allen
+Song Name: Raining Slowly
+Preview Link: https://api.spotify.com/v1/tracks/3C2hFxPFsNrnMXW861bnHY
+Album: Raining Slowly
+Release Date: 10/10/2017
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Parry Gripp
+Song Name: Raining Tacos
+Preview Link: https://api.spotify.com/v1/tracks/01apQz7E72krU1k1b4VWs7
+Album: Parry Gripp Mega-Party (2008 - 2012)
+Release Date: 01/18/2013
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Hunter Phelps
+Song Name: Breakup Sex
+Preview Link: https://api.spotify.com/v1/tracks/1zMlCzXYSXlNAEIZVpr5CZ
+Album: Hope It Starts Raining
+Release Date: 02/03/2017
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: The Weather Girls
+Song Name: It's Raining Men
+Preview Link: https://api.spotify.com/v1/tracks/5TgD3Wh5ZUZnUU4tmVvJbx
+Album: 80s 100 Hits
+Release Date: 02/26/2010
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Rihanna
+Song Name: Raining Men
+Preview Link: https://api.spotify.com/v1/tracks/7BlAMDuFJPwWu2rVtYwy6C
+Album: Loud
+Release Date: 11/16/2010
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: Masked Man
+Song Name: It's Raining
+Preview Link: https://api.spotify.com/v1/tracks/2plFJ8lWAbdeNrK7sDaR2I
+Album: It's Raining
+Release Date: 04/27/2018
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Slayer
+Song Name: Raining Blood
+Preview Link: https://api.spotify.com/v1/tracks/01Mpj13vURSO3cCLprPt5T
+Album: Reign In Blood
+Release Date: 01/01/1986
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Vader
+Song Name: Raining Blood
+Preview Link: https://api.spotify.com/v1/tracks/1BvWd3BUPyvXJ6lr08n3jE
+Album: Sothis
+Release Date: 01/01/2012
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Body Count
+Song Name: Raining in Blood / Postmortem 2017
+Preview Link: https://api.spotify.com/v1/tracks/2LjpJIJHOKOKMxxKJlRGBX
+Album: Bloodlust
+Release Date: 03/31/2017
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Slayer
+Song Name: Raining Blood
+Preview Link: https://api.spotify.com/v1/tracks/4qssDjJudTC8jUtE5Ef0US
+Album: Soundtrack To The Apocalypse (Deluxe Version)
+Release Date: 01/01/2003
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: ERock
+Song Name: Doom Meets Metal (+Raining Blood)
+Preview Link: https://api.spotify.com/v1/tracks/4NMllw2elescZoW22Xc85m
+Album: Video Games Meet Metal Vol. 2
+Release Date: 04/16/2015
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Havok
+Song Name: Post Mortem / Raining Blood
+Preview Link: https://api.spotify.com/v1/tracks/65sIJnMRHx9CiyC24GAELD
+Album: Point Of No Return EP
+Release Date: 05/22/2012
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Hot Sugar
+Song Name: Raining Blood
+Preview Link: https://api.spotify.com/v1/tracks/01371Yl04999fUq0rIIySe
+Album: God's Hand
+Release Date: 02/24/2015
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Slayer
+Song Name: Raining Blood - Live At The Lakeland Coliseum / 1991
+Preview Link: https://api.spotify.com/v1/tracks/0dlQyNj8oNM1cLi2W2Ccn4
+Album: Live: Decade Of Aggression
+Release Date: 01/01/1991
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Slayer
+Song Name: Raining Blood
+Preview Link: https://api.spotify.com/v1/tracks/5eF4Kv3HcYJyAtgTmHVzH9
+Album: Soundtrack To The Apocalypse
+Release Date: 01/01/2003
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: Metalachi
+Song Name: Raining Blood
+Preview Link: https://api.spotify.com/v1/tracks/6uXRK911QjJmQFkHbvIYsU
+Album: Dos
+Release Date: 12/06/2016
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Slayer
+Song Name: Raining Blood
+Preview Link: https://api.spotify.com/v1/tracks/01Mpj13vURSO3cCLprPt5T
+Album: Reign In Blood
+Release Date: 01/01/1986
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: The Weather Girls
+Song Name: It's Raining Men
+Preview Link: https://api.spotify.com/v1/tracks/4caiYv89C9GZdDD1RzshWd
+Album: Dance Hits - 80s & 90s
+Release Date: 04/29/2008
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Sky Fall SF
+Song Name: Rain Sounds: Raining
+Preview Link: https://api.spotify.com/v1/tracks/03E06FTE8LrhTfdOfDBb2q
+Album: Rain
+Release Date: 05/05/2017
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Parry Gripp
+Song Name: Raining Tacos
+Preview Link: https://api.spotify.com/v1/tracks/2tgKCgRqFbXdmo6ETTxLsb
+Album: Raining Tacos
+Release Date: 06/29/2012
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Lance Allen
+Song Name: Raining Slowly
+Preview Link: https://api.spotify.com/v1/tracks/3C2hFxPFsNrnMXW861bnHY
+Album: Raining Slowly
+Release Date: 10/10/2017
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Parry Gripp
+Song Name: Raining Tacos
+Preview Link: https://api.spotify.com/v1/tracks/01apQz7E72krU1k1b4VWs7
+Album: Parry Gripp Mega-Party (2008 - 2012)
+Release Date: 01/18/2013
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Hunter Phelps
+Song Name: Breakup Sex
+Preview Link: https://api.spotify.com/v1/tracks/1zMlCzXYSXlNAEIZVpr5CZ
+Album: Hope It Starts Raining
+Release Date: 02/03/2017
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: The Weather Girls
+Song Name: It's Raining Men
+Preview Link: https://api.spotify.com/v1/tracks/5TgD3Wh5ZUZnUU4tmVvJbx
+Album: 80s 100 Hits
+Release Date: 02/26/2010
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Rihanna
+Song Name: Raining Men
+Preview Link: https://api.spotify.com/v1/tracks/7BlAMDuFJPwWu2rVtYwy6C
+Album: Loud
+Release Date: 11/16/2010
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: Masked Man
+Song Name: It's Raining
+Preview Link: https://api.spotify.com/v1/tracks/2plFJ8lWAbdeNrK7sDaR2I
+Album: It's Raining
+Release Date: 04/27/2018
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Slayer
+Song Name: Raining Blood
+Preview Link: https://api.spotify.com/v1/tracks/01Mpj13vURSO3cCLprPt5T
+Album: Reign In Blood
+Release Date: 01/01/1986
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Vader
+Song Name: Raining Blood
+Preview Link: https://api.spotify.com/v1/tracks/1BvWd3BUPyvXJ6lr08n3jE
+Album: Sothis
+Release Date: 01/01/2012
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Body Count
+Song Name: Raining in Blood / Postmortem 2017
+Preview Link: https://api.spotify.com/v1/tracks/2LjpJIJHOKOKMxxKJlRGBX
+Album: Bloodlust
+Release Date: 03/31/2017
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Slayer
+Song Name: Raining Blood
+Preview Link: https://api.spotify.com/v1/tracks/4qssDjJudTC8jUtE5Ef0US
+Album: Soundtrack To The Apocalypse (Deluxe Version)
+Release Date: 01/01/2003
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: ERock
+Song Name: Doom Meets Metal (+Raining Blood)
+Preview Link: https://api.spotify.com/v1/tracks/4NMllw2elescZoW22Xc85m
+Album: Video Games Meet Metal Vol. 2
+Release Date: 04/16/2015
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Havok
+Song Name: Post Mortem / Raining Blood
+Preview Link: https://api.spotify.com/v1/tracks/65sIJnMRHx9CiyC24GAELD
+Album: Point Of No Return EP
+Release Date: 05/22/2012
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Hot Sugar
+Song Name: Raining Blood
+Preview Link: https://api.spotify.com/v1/tracks/01371Yl04999fUq0rIIySe
+Album: God's Hand
+Release Date: 02/24/2015
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Slayer
+Song Name: Raining Blood - Live At The Lakeland Coliseum / 1991
+Preview Link: https://api.spotify.com/v1/tracks/0dlQyNj8oNM1cLi2W2Ccn4
+Album: Live: Decade Of Aggression
+Release Date: 01/01/1991
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Slayer
+Song Name: Raining Blood
+Preview Link: https://api.spotify.com/v1/tracks/5eF4Kv3HcYJyAtgTmHVzH9
+Album: Soundtrack To The Apocalypse
+Release Date: 01/01/2003
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: Metalachi
+Song Name: Raining Blood
+Preview Link: https://api.spotify.com/v1/tracks/6uXRK911QjJmQFkHbvIYsU
+Album: Dos
+Release Date: 12/06/2016
+----------------------------------------------------------------------
+
+
+Spotify Search Info
+
+
+----------------------------Track# 1 --------------------------------
+Artist: Reykon
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/67OeF21snQIQRrjPtfbP5L
+Album: Macarena
+Release Date: 08/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 2 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 3 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/2df5QsXucx4VLiHNGusXD5
+Album: Alegria Y Cosabuena
+Release Date: 03/19/2001
+----------------------------------------------------------------------
+----------------------------Track# 4 --------------------------------
+Artist: Gente De Zona
+Song Name: Mas Macarena
+Preview Link: https://api.spotify.com/v1/tracks/6rtxhUzK6FMzMtAw2Z9uZy
+Album: Mas Macarena
+Release Date: 07/14/2016
+----------------------------------------------------------------------
+----------------------------Track# 5 --------------------------------
+Artist: Identidad
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/3c30EjdSPP1VuuY1ElSrru
+Album: Los Saxofones Alegres
+Release Date: 01/17/2018
+----------------------------------------------------------------------
+----------------------------Track# 6 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/7obdw7ZGr6l1GqSBkFiY11
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 7 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - Bayside Boys Remix
+Preview Link: https://api.spotify.com/v1/tracks/6go8OpVqD9QePmdA726d81
+Album: Happiness Forever
+Release Date: 04/10/2018
+----------------------------------------------------------------------
+----------------------------Track# 8 --------------------------------
+Artist: Damso
+Song Name: Θ. Macarena
+Preview Link: https://api.spotify.com/v1/tracks/2ewjMyCbNv2X1dB2qIDCwD
+Album: Ipséité
+Release Date: 04/28/2017
+----------------------------------------------------------------------
+----------------------------Track# 9 --------------------------------
+Artist: Los Del Rio
+Song Name: Macarena - River Re-Mix
+Preview Link: https://api.spotify.com/v1/tracks/5v2HaVFTu9pFOXtD907W1R
+Album: Fiesta Macarena
+Release Date: 04/29/1996
+----------------------------------------------------------------------
+----------------------------Track# 10 --------------------------------
+Artist: The Party Cats
+Song Name: Macarena
+Preview Link: https://api.spotify.com/v1/tracks/55JMvcjqtON7sDCcr4I895
+Album: Kids Dance Party
+Release Date: 01/01/2006
+----------------------------------------------------------------------
+
+
+OMDB Search Info
+
+
+---------------------------Info-------------------------------
+Movie Title: Rambo
+Release Date: 01/25/2008
+IMDB Rating: 7.0
+Rotton Tomatoes Rating: 37%
+Country Produced: Germany, USA
+Language: English, Burmese, Thai
+Plot: In Thailand, John Rambo joins a group of mercenaries to venture into war-torn Burma, and rescue a group of Christian aid workers who were kidnapped by the ruthless local infantry unit.
+Actors: Sylvester Stallone, Julie Benz, Matthew Marsden, Graham McTavish
+--------------------------------------------------------------
+
+
+OMDB Search Info
+
+
+---------------------------Info-------------------------------
+Movie Title: Highlander
+Release Date: 03/07/1986
+IMDB Rating: 7.2
+Rotton Tomatoes Rating: 68%
+Country Produced: UK
+Language: English
+Plot: An immortal Scottish swordsman must confront the last of his immortal opponent, a murderously brutal barbarian who lusts for the fabled "Prize".
+Actors: Christopher Lambert, Roxanne Hart, Clancy Brown, Sean Connery
+--------------------------------------------------------------
+
+
+OMDB Search Info
+
+
+
+No Data Received
+
