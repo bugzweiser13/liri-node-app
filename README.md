@@ -13,7 +13,8 @@ Will console log a statement "Invalid Search, please type any of the following c
 
 ***"node liri.js concert-this (artist-name) + (search-limit#)":***
 
-This command will produce a console log print out (and log to the log.txt file) the amount of events based on ***(search-amount)*** of the following:
+This command will produce a console log print out (and log to the log.txt file), the amount of events based on  
+***(search-amount)*** of the following:
 
     -Artist: <name>
     -Location: <city>
@@ -26,7 +27,8 @@ If ***(search-limit#)*** is left blank, default search amount will be 10.
 
 ***"node liri.js spotify-this-song (song-name) + (search amount#)":***
 
-This command will produce a console log print out (also logs to log.tx file) the amount of events based on ***(search-amount)*** of the following:
+This command will produce a console log print out (also logs to log.tx file), the amount of events based on  
+***(search-amount)*** of the following:
 
     -Artist: <name>
     -Song Name: <title>
