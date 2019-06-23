@@ -35,7 +35,7 @@ This command will produce a console log print out (also logs to log.tx file) of 
 
 If ***(song-name)*** is left blank, the search will default to "macarena"
 
-***"none liri.js movie-this (movie-tile)":***
+***"none liri.js movie-this (movie-title)":***
 
 This command will produce a console log print out (also log to the log.txt file) the requested movies's information as follows:
 
@@ -48,7 +48,7 @@ This command will produce a console log print out (also log to the log.txt file)
     -Plot: <plot synapsis>
     -Actors: <title actors>
 
-If ***(movie-name)*** is left blank, the search will default to a statement "Go Watch Mr. Nobody"
+If ***(movie-title)*** is left blank, the search will default to a statement "Go Watch Mr. Nobody"
 
 ***"node liri.js do-what-it-says"***
 
@@ -56,3 +56,5 @@ Will perform the spotify song search for the title "I Want it That Way" from inf
 
     -entries within the random.txt file need to be seporated by a "," 
     -need to be entered in the following format <search-command>,<"search-criteria">
+
+***See opertional videos (title by each search) for demonstration.***
