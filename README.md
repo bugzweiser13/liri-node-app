@@ -1,4 +1,4 @@
-# lori-node-app
+# liri-node-app
 
 Search Three APIs in one.
 
