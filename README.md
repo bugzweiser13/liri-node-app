@@ -34,9 +34,9 @@ This command will produce a console log print out (also logs to log.tx file) the
     -Album: <album song can be found on>
     -Release Date: <date release, moment.js format to keep date look consistant>
 
-*If ***(song name)*** is wrapped in "", will search for that specific title or titles with multiple words.  
-*If ***(song-name)*** is left blank, the search will default to "macarena".  
-*If ***(search-limit)*** is left blank, default search amount will be 10.
+If ***(song name)*** is wrapped in "", will search for that specific title or titles with multiple words.  
+If ***(song-name)*** is left blank, the search will default to "macarena".  
+If ***(search-limit)*** is left blank, default search amount will be 10.
 
 ***"none liri.js movie-this (movie-title)":***
 
