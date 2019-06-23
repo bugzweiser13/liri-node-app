@@ -67,4 +67,4 @@ Will perform the spotify song search for the title "I Want it That Way" from inf
     -need to be entered in the following format <search-command>,<"search-criteria">
     -only one entry within the .txt file operational at this time
 
-***See opertional videos (title by each search) for demonstration.***
+***See opertional videos (title for each search) for demonstration.***
