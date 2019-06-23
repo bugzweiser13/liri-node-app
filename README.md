@@ -21,8 +21,8 @@ This command will produce a console log print out (and log to the log.txt file) 
     -Event Date <dateTime (moment.js to date format only)>
     -Ticket URL: <link to ticket purchasing>
 
-If ***(artist-name)*** is left blank, the search will default to "The Wiggles
-If ***(search-limit#)*** is left blank, default search amount will be 10
+If ***(artist-name)*** is left blank, the search will default to "The Wiggles.  
+If ***(search-limit#)*** is left blank, default search amount will be 10.
 
 ***"node liri.js spotify-this-song (song-name) + (search amount#)":***
 
