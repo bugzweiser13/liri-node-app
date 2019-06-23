@@ -4,7 +4,7 @@ Search Three APIs in one.
 
 ***"node liri.js"***
 
-Will console log a statement "Invalid Search, please type any of the following command options: " 
+Will console log a statement ***"Invalid Search, please type any of the following command options: "*** 
 
     -concert-this
     -spotify-this-song
