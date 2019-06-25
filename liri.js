@@ -185,21 +185,21 @@ function omdbSearch() {
                 console.log("---------------------------Info-------------------------------");
                 fs.appendFileSync("log.txt", "---------------------------Info-------------------------------\n"); //append log.txt file
                 console.log("Movie Title: " + movieResponse.data.Title);
-                fs.appendFileSync("log.txt", "Movie Title: " + movieResponse.data.Title + "\n");
+                fs.appendFileSync("log.txt", "Movie Title: " + movieResponse.data.Title + "\n"); //append log.txt file
                 console.log("Release Date: " + movieDateRtn);
-                fs.appendFileSync("log.txt", "Release Date: " + movieDateRtn + "\n");
+                fs.appendFileSync("log.txt", "Release Date: " + movieDateRtn + "\n"); //append log.txt file
                 console.log("IMDB Rating: " + movieResponse.data.imdbRating);
-                fs.appendFileSync("log.txt", "IMDB Rating: " + movieResponse.data.imdbRating + "\n");
+                fs.appendFileSync("log.txt", "IMDB Rating: " + movieResponse.data.imdbRating + "\n"); //append log.txt file
                 console.log("Rotton Tomatoes Rating: " + movieResponse.data.Ratings[1].Value);
-                fs.appendFileSync("log.txt", "Rotton Tomatoes Rating: " + movieResponse.data.Ratings[1].Value + "\n");
+                fs.appendFileSync("log.txt", "Rotton Tomatoes Rating: " + movieResponse.data.Ratings[1].Value + "\n"); //append log.txt file
                 console.log("Country Produced: " + movieResponse.data.Country);
-                fs.appendFileSync("log.txt", "Country Produced: " + movieResponse.data.Country + "\n");
+                fs.appendFileSync("log.txt", "Country Produced: " + movieResponse.data.Country + "\n"); //append log.txt file
                 console.log("Language: " + movieResponse.data.Language);
-                fs.appendFileSync("log.txt", "Language: " + movieResponse.data.Language + "\n");
+                fs.appendFileSync("log.txt", "Language: " + movieResponse.data.Language + "\n"); //append log.txt file
                 console.log("Plot: " + movieResponse.data.Plot);
-                fs.appendFileSync("log.txt", "Plot: " + movieResponse.data.Plot + "\n");
+                fs.appendFileSync("log.txt", "Plot: " + movieResponse.data.Plot + "\n"); //append log.txt file
                 console.log("Actors: " + movieResponse.data.Actors);
-                fs.appendFileSync("log.txt", "Actors: " + movieResponse.data.Actors + "\n");
+                fs.appendFileSync("log.txt", "Actors: " + movieResponse.data.Actors + "\n"); //append log.txt file
                 console.log("--------------------------------------------------------------");
                 fs.appendFileSync("log.txt", "--------------------------------------------------------------\n"); //append log.txt file
             }
