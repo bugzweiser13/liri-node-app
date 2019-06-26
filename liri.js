@@ -70,7 +70,7 @@ function concertSearch() {
                 for (i = 0; i < searchLimit; i++) {
 
                     var showDate = bandsResponse.data[i].datetime
-                    var showDateRtn = moment(showDate).format("MM/DD/YYYY");
+                    var showDateRtn = moment(showDate).format("MM/DD/YYYY"); //change date format to be consistant
 
                     console.log("------------------------------Event#: " + [i + 1] + "-----------------------------------");
                     fs.appendFileSync("log.txt", "-------------------------------Event: " + [i + 1] + "-----------------------------------\n"); //append to log.txt file
@@ -124,7 +124,7 @@ function spotifySearch() {
             for (l = 0; l < searchLimit; l++) {
 
                 var trackDate = spotifyResponse.tracks.items[l].album.release_date;
-                var trackDateRtn = moment(trackDate, "YYYY-MM-DD").format("MM/DD/YYYY");
+                var trackDateRtn = moment(trackDate, "YYYY-MM-DD").format("MM/DD/YYYY"); //change date format to be consistant
 
                 // console.log(spotifyResponse.tracks.items[0]);
                 // console.log(data);
@@ -154,7 +154,7 @@ function omdbSearch() {
 
         fs.appendFileSync("log.txt", "\n"); //append to log.txt file
         fs.appendFileSync("log.txt", "\n"); //append to log.txt file
-        fs.appendFileSync("log.txt", "OMDB Search Info\n"); //append to log.txt file
+        fs.appendFileSync("log.txt", "OMDb Search Info\n"); //append to log.txt file
         fs.appendFileSync("log.txt", "\n"); //append to log.txt file
         fs.appendFileSync("log.txt", "\n"); //append to log.txt file
 
@@ -180,7 +180,7 @@ function omdbSearch() {
                 // console.log(bandsResponse);
 
                 var movieDate = movieResponse.data.Released
-                var movieDateRtn = moment(movieDate, "DDMMMYYYY").format("MM/DD/YYYY");
+                var movieDateRtn = moment(movieDate, "DDMMMYYYY").format("MM/DD/YYYY"); //change date format to be consistant
 
                 console.log("---------------------------Info-------------------------------");
                 fs.appendFileSync("log.txt", "---------------------------Info-------------------------------\n"); //append log.txt file
